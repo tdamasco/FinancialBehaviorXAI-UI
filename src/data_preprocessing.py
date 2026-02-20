@@ -29,6 +29,19 @@ def standardize_columns(df: pd.DataFrame) -> pd.DataFrame:
     )
     return df
 
+# --------------------------------------------------
+# 2.1 Drop Unused Columns
+# --------------------------------------------------
+
+def drop_unused_columns(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+    
+    columns_to_drop = ["transaction_description"]
+    
+    df = df.drop(columns=[col for col in columns_to_drop if col in df.columns])
+    
+    return df
+
 
 # --------------------------------------------------
 # 3. Parse Dates
@@ -120,13 +133,13 @@ def clip_outliers_iqr(df: pd.DataFrame, column: str, k: float = 3.0) -> pd.DataF
 def preprocess_data(filepath: str) -> pd.DataFrame:
     df = load_data(filepath)
     df = standardize_columns(df)
+    df = drop_unused_columns(df) 
     df = parse_dates(df)
     df = clean_amount(df)
     df = normalize_type(df)
     df = apply_signed_amount(df)
     df = basic_cleaning(df)
 
-    # Clip extreme transaction values
     df = clip_outliers_iqr(df, column="signed_amount")
 
     return df
