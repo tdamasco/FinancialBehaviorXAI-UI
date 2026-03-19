@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.base import clone
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 
 from sklearn.linear_model import LogisticRegression
@@ -27,22 +27,6 @@ def time_aware_train_test_split(
     target_col: str = "overspend_target_t1",
     test_size: float = 0.2
 ):
-    """
-    Split data chronologically instead of randomly.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Model-ready dataset with a month column and target.
-    target_col : str
-        Name of target column.
-    test_size : float
-        Fraction of the newest rows to use as test set.
-
-    Returns
-    -------
-    X_train, X_test, y_train, y_test, train_df, test_df
-    """
     if "month" not in df.columns:
         raise ValueError("DataFrame must contain a 'month' column.")
 
@@ -57,11 +41,10 @@ def time_aware_train_test_split(
     train_df = data.iloc[:split_idx].copy()
     test_df = data.iloc[split_idx:].copy()
 
-    # Exclude obvious leakage / non-feature columns
     drop_cols = [
         target_col,
         "month",
-        "overspend_current_month"   # current month label should not be used
+        "overspend_current_month"
     ]
     feature_cols = [c for c in data.columns if c not in drop_cols]
 
@@ -74,9 +57,6 @@ def time_aware_train_test_split(
 
 
 def build_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
-    """
-    Build preprocessing for numeric and categorical columns.
-    """
     numeric_cols = X.select_dtypes(include=[np.number]).columns.tolist()
     categorical_cols = X.select_dtypes(exclude=[np.number]).columns.tolist()
 
@@ -90,7 +70,7 @@ def build_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
     categorical_transformer = Pipeline(
         steps=[
             ("imputer", SimpleImputer(strategy="most_frequent")),
-            ("onehot", OneHotEncoder(handle_unknown="ignore"))
+            ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False))
         ]
     )
 
@@ -106,9 +86,6 @@ def build_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
 
 
 def get_models(random_state: int = 42) -> dict:
-    """
-    Returns the planned models for overspending classification.
-    """
     return {
         "logistic_regression": LogisticRegression(
             max_iter=1000,
@@ -132,9 +109,6 @@ def get_models(random_state: int = 42) -> dict:
 
 
 def evaluate_classifier(model, X_test, y_test) -> dict:
-    """
-    Evaluate a trained classifier.
-    """
     y_pred = model.predict(X_test)
 
     if hasattr(model, "predict_proba"):
@@ -150,8 +124,7 @@ def evaluate_classifier(model, X_test, y_test) -> dict:
         "precision": precision_score(y_test, y_pred, zero_division=0),
         "recall": recall_score(y_test, y_pred, zero_division=0),
         "roc_auc": roc_auc_score(y_test, y_score) if len(np.unique(y_test)) > 1 else np.nan,
-        "avg_precision": average_precision_score(y_test, y_score)
-        if len(np.unique(y_test)) > 1 else np.nan,
+        "avg_precision": average_precision_score(y_test, y_score) if len(np.unique(y_test)) > 1 else np.nan,
         "confusion_matrix": confusion_matrix(y_test, y_pred).tolist(),
         "classification_report": classification_report(
             y_test, y_pred, zero_division=0, output_dict=True
@@ -167,22 +140,6 @@ def train_and_compare_models(
     test_size: float = 0.2,
     random_state: int = 42
 ):
-    """
-    Full modeling pipeline:
-    1. chronological train/test split
-    2. preprocessing
-    3. train multiple models
-    4. compare metrics
-
-    Returns
-    -------
-    results_df : pd.DataFrame
-        Table of model performance.
-    fitted_models : dict
-        Trained sklearn pipelines.
-    split_data : dict
-        Train/test partitions for later analysis.
-    """
     X_train, X_test, y_train, y_test, train_df, test_df = time_aware_train_test_split(
         df=df,
         target_col=target_col,
