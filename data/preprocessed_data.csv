@@ -1,0 +1,1501 @@
+date,category,amount,type,signed_amount
+2020-01-02,Food & Drink,1485.69,Expense,-1485.69
+2020-01-02,Utilities,1475.58,Expense,-1475.58
+2020-01-04,Rent,1185.08,Expense,-1185.08
+2020-01-05,Investment,2291.0,Income,2291.0
+2020-01-13,Food & Drink,1126.88,Expense,-1126.88
+2020-01-14,Shopping,448.68,Expense,-448.68
+2020-01-18,Food & Drink,1520.03,Expense,-1520.03
+2020-01-19,Other,3287.0,Income,3287.0
+2020-01-21,Entertainment,1914.85,Expense,-1914.85
+2020-01-25,Rent,766.06,Expense,-766.06
+2020-01-25,Health & Fitness,1211.41,Expense,-1211.41
+2020-01-26,Salary,1077.09,Expense,-1077.09
+2020-01-29,Shopping,166.81,Expense,-166.81
+2020-01-30,Health & Fitness,1158.93,Expense,-1158.93
+2020-01-31,Food & Drink,1325.91,Expense,-1325.91
+2020-01-31,Rent,1712.08,Expense,-1712.08
+2020-01-31,Shopping,563.17,Expense,-563.17
+2020-02-02,Health & Fitness,333.68,Expense,-333.68
+2020-02-04,Travel,1406.62,Expense,-1406.62
+2020-02-05,Rent,1222.17,Expense,-1222.17
+2020-02-05,Investment,1838.0,Income,1838.0
+2020-02-07,Travel,1979.15,Expense,-1979.15
+2020-02-07,Entertainment,1372.38,Expense,-1372.38
+2020-02-08,Food & Drink,465.81,Expense,-465.81
+2020-02-08,Other,3786.0,Income,3466.7799999999997
+2020-02-09,Entertainment,1827.14,Expense,-1827.14
+2020-02-11,Health & Fitness,433.13,Expense,-433.13
+2020-02-13,Salary,294.31,Expense,-294.31
+2020-02-15,Other,4009.0,Income,3466.7799999999997
+2020-02-16,Shopping,730.37,Expense,-730.37
+2020-02-16,Utilities,1023.96,Expense,-1023.96
+2020-02-18,Investment,1398.0,Income,1398.0
+2020-02-19,Investment,3958.0,Income,3466.7799999999997
+2020-02-20,Shopping,769.42,Expense,-769.42
+2020-02-26,Travel,1942.45,Expense,-1942.45
+2020-02-27,Food & Drink,1363.76,Expense,-1363.76
+2020-02-28,Other,3286.0,Income,3286.0
+2020-02-28,Other,1795.0,Income,1795.0
+2020-02-29,Travel,1944.06,Expense,-1944.06
+2020-03-03,Rent,1742.33,Expense,-1742.33
+2020-03-04,Entertainment,314.15,Expense,-314.15
+2020-03-04,Food & Drink,1201.9,Expense,-1201.9
+2020-03-09,Rent,1858.91,Expense,-1858.91
+2020-03-09,Travel,486.51,Expense,-486.51
+2020-03-11,Rent,180.45,Expense,-180.45
+2020-03-11,Rent,1956.19,Expense,-1956.19
+2020-03-12,Utilities,265.5,Expense,-265.5
+2020-03-12,Utilities,537.46,Expense,-537.46
+2020-03-14,Shopping,1929.08,Expense,-1929.08
+2020-03-15,Entertainment,1428.77,Expense,-1428.77
+2020-03-18,Health & Fitness,881.82,Expense,-881.82
+2020-03-21,Rent,503.33,Expense,-503.33
+2020-03-23,Investment,2385.0,Income,2385.0
+2020-03-23,Food & Drink,151.28,Expense,-151.28
+2020-03-24,Entertainment,144.13,Expense,-144.13
+2020-03-28,Other,1080.0,Income,1080.0
+2020-04-01,Travel,1341.27,Expense,-1341.27
+2020-04-05,Utilities,1449.47,Expense,-1449.47
+2020-04-06,Salary,493.56,Expense,-493.56
+2020-04-06,Shopping,388.92,Expense,-388.92
+2020-04-10,Other,3402.0,Income,3402.0
+2020-04-17,Salary,1729.04,Expense,-1729.04
+2020-04-17,Investment,996.0,Income,996.0
+2020-04-18,Health & Fitness,1603.18,Expense,-1603.18
+2020-04-22,Investment,2058.0,Income,2058.0
+2020-04-23,Utilities,849.54,Expense,-849.54
+2020-04-25,Entertainment,1750.23,Expense,-1750.23
+2020-04-26,Investment,914.0,Income,914.0
+2020-04-26,Food & Drink,1938.3,Expense,-1938.3
+2020-04-27,Entertainment,340.96,Expense,-340.96
+2020-04-27,Entertainment,1730.65,Expense,-1730.65
+2020-04-29,Utilities,764.16,Expense,-764.16
+2020-04-30,Travel,1853.77,Expense,-1853.77
+2020-05-01,Travel,851.78,Expense,-851.78
+2020-05-03,Salary,318.05,Expense,-318.05
+2020-05-03,Food & Drink,1162.57,Expense,-1162.57
+2020-05-05,Health & Fitness,123.76,Expense,-123.76
+2020-05-06,Utilities,123.19,Expense,-123.19
+2020-05-06,Utilities,146.36,Expense,-146.36
+2020-05-07,Investment,3807.0,Income,3466.7799999999997
+2020-05-11,Investment,825.0,Income,825.0
+2020-05-12,Shopping,1318.17,Expense,-1318.17
+2020-05-13,Health & Fitness,1870.07,Expense,-1870.07
+2020-05-14,Health & Fitness,484.99,Expense,-484.99
+2020-05-15,Travel,919.88,Expense,-919.88
+2020-05-16,Rent,28.54,Expense,-28.54
+2020-05-17,Rent,155.79,Expense,-155.79
+2020-05-19,Travel,273.59,Expense,-273.59
+2020-05-20,Rent,1759.75,Expense,-1759.75
+2020-05-21,Utilities,881.99,Expense,-881.99
+2020-05-25,Travel,1227.24,Expense,-1227.24
+2020-05-27,Food & Drink,1339.05,Expense,-1339.05
+2020-05-28,Rent,1878.47,Expense,-1878.47
+2020-05-29,Investment,1376.0,Income,1376.0
+2020-05-30,Utilities,551.97,Expense,-551.97
+2020-05-31,Health & Fitness,415.16,Expense,-415.16
+2020-05-31,Travel,1015.76,Expense,-1015.76
+2020-06-01,Food & Drink,193.67,Expense,-193.67
+2020-06-02,Travel,97.73,Expense,-97.73
+2020-06-05,Utilities,1277.86,Expense,-1277.86
+2020-06-06,Salary,1107.84,Expense,-1107.84
+2020-06-07,Food & Drink,232.63,Expense,-232.63
+2020-06-08,Utilities,1095.72,Expense,-1095.72
+2020-06-09,Utilities,865.28,Expense,-865.28
+2020-06-09,Other,826.0,Income,826.0
+2020-06-10,Entertainment,1367.31,Expense,-1367.31
+2020-06-10,Health & Fitness,1562.43,Expense,-1562.43
+2020-06-11,Shopping,1947.94,Expense,-1947.94
+2020-06-11,Entertainment,1730.57,Expense,-1730.57
+2020-06-12,Utilities,1764.02,Expense,-1764.02
+2020-06-14,Other,3872.0,Income,3466.7799999999997
+2020-06-15,Entertainment,540.94,Expense,-540.94
+2020-06-18,Rent,771.26,Expense,-771.26
+2020-06-18,Other,2322.0,Income,2322.0
+2020-06-18,Other,3364.0,Income,3364.0
+2020-06-19,Entertainment,453.62,Expense,-453.62
+2020-06-19,Shopping,663.24,Expense,-663.24
+2020-06-21,Travel,708.78,Expense,-708.78
+2020-06-21,Health & Fitness,1879.08,Expense,-1879.08
+2020-06-22,Other,1962.0,Income,1962.0
+2020-06-22,Travel,86.13,Expense,-86.13
+2020-06-24,Health & Fitness,1459.8,Expense,-1459.8
+2020-06-30,Rent,776.54,Expense,-776.54
+2020-06-30,Travel,98.33,Expense,-98.33
+2020-07-02,Entertainment,734.8,Expense,-734.8
+2020-07-03,Other,3071.0,Income,3071.0
+2020-07-04,Rent,1442.31,Expense,-1442.31
+2020-07-05,Travel,1337.12,Expense,-1337.12
+2020-07-06,Travel,1113.28,Expense,-1113.28
+2020-07-06,Other,1925.0,Income,1925.0
+2020-07-08,Travel,818.09,Expense,-818.09
+2020-07-11,Travel,580.96,Expense,-580.96
+2020-07-12,Health & Fitness,935.33,Expense,-935.33
+2020-07-12,Entertainment,1027.24,Expense,-1027.24
+2020-07-13,Utilities,1321.11,Expense,-1321.11
+2020-07-17,Health & Fitness,195.84,Expense,-195.84
+2020-07-20,Entertainment,1348.86,Expense,-1348.86
+2020-07-21,Entertainment,303.23,Expense,-303.23
+2020-07-21,Other,1096.0,Income,1096.0
+2020-07-22,Entertainment,1439.51,Expense,-1439.51
+2020-07-22,Shopping,495.53,Expense,-495.53
+2020-07-22,Food & Drink,1786.39,Expense,-1786.39
+2020-07-23,Rent,1559.06,Expense,-1559.06
+2020-07-24,Salary,109.93,Expense,-109.93
+2020-07-28,Rent,918.36,Expense,-918.36
+2020-07-28,Health & Fitness,1900.58,Expense,-1900.58
+2020-07-29,Shopping,1662.83,Expense,-1662.83
+2020-07-30,Utilities,1489.87,Expense,-1489.87
+2020-07-31,Travel,1506.04,Expense,-1506.04
+2020-08-01,Travel,1533.97,Expense,-1533.97
+2020-08-01,Entertainment,556.45,Expense,-556.45
+2020-08-01,Other,2420.0,Income,2420.0
+2020-08-02,Health & Fitness,1787.12,Expense,-1787.12
+2020-08-03,Investment,2394.0,Income,2394.0
+2020-08-04,Utilities,1415.77,Expense,-1415.77
+2020-08-04,Other,3210.0,Income,3210.0
+2020-08-04,Shopping,133.91,Expense,-133.91
+2020-08-05,Shopping,1810.63,Expense,-1810.63
+2020-08-05,Food & Drink,1714.9,Expense,-1714.9
+2020-08-06,Shopping,959.19,Expense,-959.19
+2020-08-08,Travel,1509.42,Expense,-1509.42
+2020-08-08,Shopping,1081.06,Expense,-1081.06
+2020-08-09,Entertainment,981.58,Expense,-981.58
+2020-08-13,Salary,67.76,Expense,-67.76
+2020-08-14,Shopping,1451.12,Expense,-1451.12
+2020-08-16,Utilities,1961.64,Expense,-1961.64
+2020-08-17,Shopping,1187.87,Expense,-1187.87
+2020-08-18,Rent,1289.07,Expense,-1289.07
+2020-08-19,Other,1988.0,Income,1988.0
+2020-08-20,Other,3181.0,Income,3181.0
+2020-08-21,Health & Fitness,681.63,Expense,-681.63
+2020-08-21,Travel,1506.5,Expense,-1506.5
+2020-08-22,Travel,1671.47,Expense,-1671.47
+2020-08-22,Food & Drink,1999.82,Expense,-1999.82
+2020-08-26,Rent,1564.65,Expense,-1564.65
+2020-08-27,Food & Drink,1899.73,Expense,-1899.73
+2020-08-27,Investment,1748.0,Income,1748.0
+2020-08-29,Salary,1342.22,Expense,-1342.22
+2020-08-30,Entertainment,935.42,Expense,-935.42
+2020-08-31,Health & Fitness,343.9,Expense,-343.9
+2020-09-01,Rent,1557.81,Expense,-1557.81
+2020-09-05,Other,1385.0,Income,1385.0
+2020-09-05,Travel,1155.84,Expense,-1155.84
+2020-09-06,Shopping,799.34,Expense,-799.34
+2020-09-07,Rent,1188.27,Expense,-1188.27
+2020-09-08,Entertainment,212.78,Expense,-212.78
+2020-09-11,Rent,1594.49,Expense,-1594.49
+2020-09-11,Food & Drink,700.94,Expense,-700.94
+2020-09-11,Health & Fitness,147.22,Expense,-147.22
+2020-09-16,Food & Drink,1700.66,Expense,-1700.66
+2020-09-17,Rent,872.71,Expense,-872.71
+2020-09-17,Salary,1417.54,Expense,-1417.54
+2020-09-18,Travel,1235.67,Expense,-1235.67
+2020-09-18,Salary,935.1,Expense,-935.1
+2020-09-22,Travel,651.39,Expense,-651.39
+2020-09-22,Rent,565.07,Expense,-565.07
+2020-09-22,Salary,1144.0,Expense,-1144.0
+2020-09-23,Health & Fitness,67.11,Expense,-67.11
+2020-09-23,Utilities,980.22,Expense,-980.22
+2020-09-25,Travel,687.27,Expense,-687.27
+2020-09-27,Travel,1116.02,Expense,-1116.02
+2020-09-27,Entertainment,180.37,Expense,-180.37
+2020-09-27,Salary,1114.8,Expense,-1114.8
+2020-09-29,Salary,1295.35,Expense,-1295.35
+2020-09-30,Food & Drink,195.18,Expense,-195.18
+2020-10-01,Entertainment,619.35,Expense,-619.35
+2020-10-03,Salary,1111.41,Expense,-1111.41
+2020-10-04,Health & Fitness,710.1,Expense,-710.1
+2020-10-07,Travel,510.29,Expense,-510.29
+2020-10-07,Investment,3084.0,Income,3084.0
+2020-10-07,Investment,2069.0,Income,2069.0
+2020-10-08,Salary,560.23,Expense,-560.23
+2020-10-08,Travel,1961.22,Expense,-1961.22
+2020-10-10,Travel,462.69,Expense,-462.69
+2020-10-10,Investment,4875.0,Income,3466.7799999999997
+2020-10-10,Investment,946.0,Income,946.0
+2020-10-12,Utilities,1279.36,Expense,-1279.36
+2020-10-14,Rent,1746.71,Expense,-1746.71
+2020-10-15,Salary,962.64,Expense,-962.64
+2020-10-16,Food & Drink,512.43,Expense,-512.43
+2020-10-16,Rent,1646.01,Expense,-1646.01
+2020-10-16,Rent,1158.27,Expense,-1158.27
+2020-10-18,Utilities,306.9,Expense,-306.9
+2020-10-19,Travel,179.51,Expense,-179.51
+2020-10-23,Shopping,1216.57,Expense,-1216.57
+2020-10-24,Entertainment,1553.63,Expense,-1553.63
+2020-10-26,Salary,601.73,Expense,-601.73
+2020-10-27,Shopping,617.71,Expense,-617.71
+2020-10-27,Rent,1895.7,Expense,-1895.7
+2020-10-27,Entertainment,536.65,Expense,-536.65
+2020-10-28,Investment,1923.0,Income,1923.0
+2020-10-29,Utilities,15.32,Expense,-15.32
+2020-10-30,Salary,589.61,Expense,-589.61
+2020-10-31,Travel,1408.95,Expense,-1408.95
+2020-11-01,Entertainment,1848.58,Expense,-1848.58
+2020-11-01,Entertainment,856.03,Expense,-856.03
+2020-11-02,Utilities,1817.74,Expense,-1817.74
+2020-11-04,Rent,128.68,Expense,-128.68
+2020-11-06,Travel,883.92,Expense,-883.92
+2020-11-07,Travel,1402.47,Expense,-1402.47
+2020-11-09,Salary,881.14,Expense,-881.14
+2020-11-10,Shopping,1471.72,Expense,-1471.72
+2020-11-10,Food & Drink,191.74,Expense,-191.74
+2020-11-12,Food & Drink,1999.15,Expense,-1999.15
+2020-11-12,Travel,1156.73,Expense,-1156.73
+2020-11-14,Utilities,946.3,Expense,-946.3
+2020-11-14,Travel,371.16,Expense,-371.16
+2020-11-14,Salary,1938.42,Expense,-1938.42
+2020-11-14,Shopping,673.28,Expense,-673.28
+2020-11-15,Utilities,666.31,Expense,-666.31
+2020-11-15,Travel,1328.54,Expense,-1328.54
+2020-11-16,Food & Drink,915.1,Expense,-915.1
+2020-11-16,Health & Fitness,240.68,Expense,-240.68
+2020-11-17,Food & Drink,1318.74,Expense,-1318.74
+2020-11-20,Shopping,117.87,Expense,-117.87
+2020-11-22,Salary,1254.56,Expense,-1254.56
+2020-11-23,Entertainment,541.44,Expense,-541.44
+2020-11-25,Other,4089.0,Income,3466.7799999999997
+2020-11-25,Salary,251.64,Expense,-251.64
+2020-11-26,Entertainment,1422.47,Expense,-1422.47
+2020-11-27,Food & Drink,1108.98,Expense,-1108.98
+2020-11-27,Investment,4280.0,Income,3466.7799999999997
+2020-11-29,Utilities,1001.77,Expense,-1001.77
+2020-12-01,Travel,836.83,Expense,-836.83
+2020-12-05,Salary,495.02,Expense,-495.02
+2020-12-05,Shopping,389.31,Expense,-389.31
+2020-12-06,Utilities,1729.41,Expense,-1729.41
+2020-12-10,Shopping,686.35,Expense,-686.35
+2020-12-10,Travel,1642.89,Expense,-1642.89
+2020-12-11,Travel,1676.58,Expense,-1676.58
+2020-12-12,Salary,1731.87,Expense,-1731.87
+2020-12-13,Salary,696.8,Expense,-696.8
+2020-12-14,Shopping,916.14,Expense,-916.14
+2020-12-14,Entertainment,1961.74,Expense,-1961.74
+2020-12-16,Shopping,474.79,Expense,-474.79
+2020-12-16,Food & Drink,643.17,Expense,-643.17
+2020-12-16,Shopping,778.3,Expense,-778.3
+2020-12-18,Utilities,995.7,Expense,-995.7
+2020-12-18,Other,1322.0,Income,1322.0
+2020-12-20,Salary,208.43,Expense,-208.43
+2020-12-20,Food & Drink,1447.66,Expense,-1447.66
+2020-12-22,Utilities,158.91,Expense,-158.91
+2020-12-23,Travel,683.74,Expense,-683.74
+2020-12-23,Rent,1705.01,Expense,-1705.01
+2020-12-24,Shopping,1908.74,Expense,-1908.74
+2020-12-25,Salary,1746.04,Expense,-1746.04
+2020-12-26,Investment,2423.0,Income,2423.0
+2020-12-28,Travel,1994.88,Expense,-1994.88
+2020-12-30,Shopping,1956.89,Expense,-1956.89
+2020-12-31,Rent,892.92,Expense,-892.92
+2021-01-01,Food & Drink,101.52,Expense,-101.52
+2021-01-06,Travel,723.34,Expense,-723.34
+2021-01-06,Entertainment,1067.02,Expense,-1067.02
+2021-01-08,Utilities,348.27,Expense,-348.27
+2021-01-10,Other,2472.0,Income,2472.0
+2021-01-10,Utilities,472.06,Expense,-472.06
+2021-01-11,Salary,518.1,Expense,-518.1
+2021-01-12,Other,2856.0,Income,2856.0
+2021-01-13,Utilities,156.99,Expense,-156.99
+2021-01-13,Travel,1281.49,Expense,-1281.49
+2021-01-14,Travel,919.1,Expense,-919.1
+2021-01-14,Shopping,1708.14,Expense,-1708.14
+2021-01-15,Other,3440.0,Income,3440.0
+2021-01-15,Travel,53.66,Expense,-53.66
+2021-01-17,Shopping,556.22,Expense,-556.22
+2021-01-17,Food & Drink,1822.13,Expense,-1822.13
+2021-01-19,Travel,1553.72,Expense,-1553.72
+2021-01-20,Health & Fitness,445.82,Expense,-445.82
+2021-01-24,Other,1620.0,Income,1620.0
+2021-01-26,Food & Drink,624.78,Expense,-624.78
+2021-01-27,Health & Fitness,1467.4,Expense,-1467.4
+2021-01-27,Other,3176.0,Income,3176.0
+2021-01-27,Utilities,409.58,Expense,-409.58
+2021-01-27,Health & Fitness,1066.4,Expense,-1066.4
+2021-01-29,Utilities,521.37,Expense,-521.37
+2021-02-02,Salary,1935.09,Expense,-1935.09
+2021-02-05,Health & Fitness,1610.42,Expense,-1610.42
+2021-02-05,Rent,290.11,Expense,-290.11
+2021-02-08,Shopping,1934.87,Expense,-1934.87
+2021-02-08,Health & Fitness,189.7,Expense,-189.7
+2021-02-09,Travel,1077.78,Expense,-1077.78
+2021-02-09,Travel,1173.27,Expense,-1173.27
+2021-02-11,Health & Fitness,225.61,Expense,-225.61
+2021-02-11,Food & Drink,1242.9,Expense,-1242.9
+2021-02-13,Health & Fitness,1831.36,Expense,-1831.36
+2021-02-16,Rent,1274.45,Expense,-1274.45
+2021-02-18,Travel,1301.99,Expense,-1301.99
+2021-02-19,Investment,804.0,Income,804.0
+2021-02-20,Salary,241.08,Expense,-241.08
+2021-02-21,Utilities,783.41,Expense,-783.41
+2021-02-23,Shopping,1178.81,Expense,-1178.81
+2021-02-24,Shopping,1313.29,Expense,-1313.29
+2021-02-27,Shopping,1878.72,Expense,-1878.72
+2021-02-28,Health & Fitness,442.37,Expense,-442.37
+2021-03-02,Entertainment,1712.35,Expense,-1712.35
+2021-03-02,Other,4960.0,Income,3466.7799999999997
+2021-03-02,Health & Fitness,130.49,Expense,-130.49
+2021-03-04,Rent,1898.53,Expense,-1898.53
+2021-03-05,Rent,1328.91,Expense,-1328.91
+2021-03-05,Food & Drink,110.65,Expense,-110.65
+2021-03-07,Utilities,1576.09,Expense,-1576.09
+2021-03-07,Entertainment,1176.9,Expense,-1176.9
+2021-03-08,Entertainment,663.83,Expense,-663.83
+2021-03-09,Investment,2771.0,Income,2771.0
+2021-03-09,Utilities,1975.18,Expense,-1975.18
+2021-03-10,Utilities,228.75,Expense,-228.75
+2021-03-12,Utilities,39.57,Expense,-39.57
+2021-03-15,Entertainment,1181.82,Expense,-1181.82
+2021-03-15,Other,929.0,Income,929.0
+2021-03-16,Other,4809.0,Income,3466.7799999999997
+2021-03-16,Investment,4401.0,Income,3466.7799999999997
+2021-03-17,Health & Fitness,1031.34,Expense,-1031.34
+2021-03-17,Investment,855.0,Income,855.0
+2021-03-18,Travel,921.5,Expense,-921.5
+2021-03-19,Food & Drink,1997.19,Expense,-1997.19
+2021-03-20,Shopping,1375.33,Expense,-1375.33
+2021-03-21,Salary,156.25,Expense,-156.25
+2021-03-22,Investment,1038.0,Income,1038.0
+2021-03-22,Other,3620.0,Income,3466.7799999999997
+2021-03-22,Travel,912.89,Expense,-912.89
+2021-03-23,Rent,1588.26,Expense,-1588.26
+2021-03-23,Investment,4023.0,Income,3466.7799999999997
+2021-03-24,Entertainment,833.49,Expense,-833.49
+2021-03-25,Shopping,837.82,Expense,-837.82
+2021-03-26,Other,3060.0,Income,3060.0
+2021-03-27,Health & Fitness,1907.65,Expense,-1907.65
+2021-03-28,Salary,143.6,Expense,-143.6
+2021-03-29,Rent,869.43,Expense,-869.43
+2021-03-30,Health & Fitness,1625.42,Expense,-1625.42
+2021-04-01,Health & Fitness,1343.33,Expense,-1343.33
+2021-04-02,Shopping,1737.5,Expense,-1737.5
+2021-04-03,Travel,1204.82,Expense,-1204.82
+2021-04-03,Entertainment,317.91,Expense,-317.91
+2021-04-03,Rent,706.73,Expense,-706.73
+2021-04-08,Rent,1527.59,Expense,-1527.59
+2021-04-08,Shopping,1691.86,Expense,-1691.86
+2021-04-09,Food & Drink,1221.9,Expense,-1221.9
+2021-04-11,Travel,67.62,Expense,-67.62
+2021-04-11,Travel,1843.86,Expense,-1843.86
+2021-04-12,Utilities,1741.03,Expense,-1741.03
+2021-04-13,Shopping,148.47,Expense,-148.47
+2021-04-18,Food & Drink,192.6,Expense,-192.6
+2021-04-19,Shopping,845.47,Expense,-845.47
+2021-04-19,Health & Fitness,630.16,Expense,-630.16
+2021-04-19,Rent,1767.85,Expense,-1767.85
+2021-04-19,Investment,1168.0,Income,1168.0
+2021-04-21,Shopping,976.47,Expense,-976.47
+2021-04-23,Travel,438.98,Expense,-438.98
+2021-04-23,Health & Fitness,865.53,Expense,-865.53
+2021-04-24,Salary,1058.6,Expense,-1058.6
+2021-04-27,Entertainment,796.57,Expense,-796.57
+2021-04-27,Food & Drink,416.8,Expense,-416.8
+2021-04-27,Utilities,1530.68,Expense,-1530.68
+2021-04-30,Rent,25.38,Expense,-25.38
+2021-05-02,Utilities,267.08,Expense,-267.08
+2021-05-04,Entertainment,1005.52,Expense,-1005.52
+2021-05-04,Health & Fitness,153.43,Expense,-153.43
+2021-05-06,Food & Drink,878.08,Expense,-878.08
+2021-05-07,Rent,1725.6,Expense,-1725.6
+2021-05-07,Shopping,1421.9,Expense,-1421.9
+2021-05-07,Rent,816.01,Expense,-816.01
+2021-05-10,Utilities,1604.63,Expense,-1604.63
+2021-05-11,Health & Fitness,185.38,Expense,-185.38
+2021-05-11,Entertainment,877.0,Expense,-877.0
+2021-05-12,Rent,797.58,Expense,-797.58
+2021-05-14,Health & Fitness,450.93,Expense,-450.93
+2021-05-14,Rent,1025.86,Expense,-1025.86
+2021-05-15,Investment,3362.0,Income,3362.0
+2021-05-17,Utilities,480.18,Expense,-480.18
+2021-05-19,Investment,1921.0,Income,1921.0
+2021-05-22,Rent,362.52,Expense,-362.52
+2021-05-23,Salary,933.27,Expense,-933.27
+2021-05-24,Salary,1365.46,Expense,-1365.46
+2021-05-24,Health & Fitness,1729.85,Expense,-1729.85
+2021-05-24,Utilities,885.13,Expense,-885.13
+2021-05-25,Travel,1594.7,Expense,-1594.7
+2021-05-25,Health & Fitness,1019.6,Expense,-1019.6
+2021-05-27,Salary,84.84,Expense,-84.84
+2021-05-27,Travel,162.69,Expense,-162.69
+2021-05-29,Rent,1233.87,Expense,-1233.87
+2021-05-30,Salary,1164.86,Expense,-1164.86
+2021-05-31,Food & Drink,904.97,Expense,-904.97
+2021-05-31,Entertainment,649.84,Expense,-649.84
+2021-06-02,Utilities,1915.87,Expense,-1915.87
+2021-06-02,Health & Fitness,1964.95,Expense,-1964.95
+2021-06-03,Investment,820.0,Income,820.0
+2021-06-06,Salary,1982.06,Expense,-1982.06
+2021-06-06,Utilities,734.16,Expense,-734.16
+2021-06-06,Shopping,823.45,Expense,-823.45
+2021-06-09,Food & Drink,1580.56,Expense,-1580.56
+2021-06-11,Rent,666.08,Expense,-666.08
+2021-06-11,Shopping,575.45,Expense,-575.45
+2021-06-14,Utilities,673.39,Expense,-673.39
+2021-06-15,Utilities,1834.33,Expense,-1834.33
+2021-06-16,Shopping,266.61,Expense,-266.61
+2021-06-20,Rent,626.07,Expense,-626.07
+2021-06-20,Health & Fitness,1628.24,Expense,-1628.24
+2021-06-22,Rent,1295.59,Expense,-1295.59
+2021-06-23,Health & Fitness,46.28,Expense,-46.28
+2021-06-24,Entertainment,690.05,Expense,-690.05
+2021-06-26,Entertainment,460.82,Expense,-460.82
+2021-06-27,Investment,2923.0,Income,2923.0
+2021-06-28,Rent,1020.3,Expense,-1020.3
+2021-06-28,Food & Drink,1327.24,Expense,-1327.24
+2021-06-28,Utilities,1198.52,Expense,-1198.52
+2021-06-28,Investment,1856.0,Income,1856.0
+2021-06-29,Food & Drink,827.61,Expense,-827.61
+2021-07-04,Entertainment,1939.48,Expense,-1939.48
+2021-07-04,Salary,475.67,Expense,-475.67
+2021-07-04,Salary,1808.91,Expense,-1808.91
+2021-07-06,Other,4282.0,Income,3466.7799999999997
+2021-07-07,Shopping,1010.78,Expense,-1010.78
+2021-07-09,Utilities,1635.61,Expense,-1635.61
+2021-07-09,Utilities,1747.27,Expense,-1747.27
+2021-07-10,Other,3540.0,Income,3466.7799999999997
+2021-07-10,Rent,1425.69,Expense,-1425.69
+2021-07-11,Rent,577.28,Expense,-577.28
+2021-07-11,Travel,904.15,Expense,-904.15
+2021-07-11,Shopping,192.51,Expense,-192.51
+2021-07-12,Salary,1770.41,Expense,-1770.41
+2021-07-13,Shopping,115.98,Expense,-115.98
+2021-07-14,Entertainment,778.47,Expense,-778.47
+2021-07-15,Investment,730.0,Income,730.0
+2021-07-19,Rent,1679.96,Expense,-1679.96
+2021-07-19,Utilities,283.82,Expense,-283.82
+2021-07-23,Salary,1395.18,Expense,-1395.18
+2021-07-23,Other,4174.0,Income,3466.7799999999997
+2021-07-24,Rent,47.82,Expense,-47.82
+2021-07-28,Utilities,1102.12,Expense,-1102.12
+2021-07-29,Shopping,231.26,Expense,-231.26
+2021-08-02,Travel,252.48,Expense,-252.48
+2021-08-06,Salary,134.99,Expense,-134.99
+2021-08-07,Salary,1197.51,Expense,-1197.51
+2021-08-07,Investment,1676.0,Income,1676.0
+2021-08-08,Food & Drink,1233.47,Expense,-1233.47
+2021-08-09,Shopping,382.75,Expense,-382.75
+2021-08-11,Health & Fitness,144.68,Expense,-144.68
+2021-08-13,Food & Drink,787.0,Expense,-787.0
+2021-08-13,Shopping,1962.27,Expense,-1962.27
+2021-08-15,Food & Drink,720.62,Expense,-720.62
+2021-08-16,Investment,1349.0,Income,1349.0
+2021-08-18,Health & Fitness,275.49,Expense,-275.49
+2021-08-20,Health & Fitness,1628.88,Expense,-1628.88
+2021-08-21,Other,4420.0,Income,3466.7799999999997
+2021-08-21,Utilities,135.57,Expense,-135.57
+2021-08-22,Salary,83.6,Expense,-83.6
+2021-08-23,Entertainment,1772.72,Expense,-1772.72
+2021-08-24,Travel,1035.61,Expense,-1035.61
+2021-08-25,Salary,514.09,Expense,-514.09
+2021-08-27,Entertainment,579.36,Expense,-579.36
+2021-08-29,Food & Drink,1732.94,Expense,-1732.94
+2021-09-05,Rent,1600.69,Expense,-1600.69
+2021-09-06,Shopping,1489.18,Expense,-1489.18
+2021-09-09,Shopping,684.68,Expense,-684.68
+2021-09-09,Other,3509.0,Income,3466.7799999999997
+2021-09-09,Travel,1604.28,Expense,-1604.28
+2021-09-10,Rent,866.91,Expense,-866.91
+2021-09-11,Utilities,1095.49,Expense,-1095.49
+2021-09-11,Rent,662.56,Expense,-662.56
+2021-09-11,Salary,1209.22,Expense,-1209.22
+2021-09-11,Salary,709.58,Expense,-709.58
+2021-09-15,Other,4063.0,Income,3466.7799999999997
+2021-09-16,Food & Drink,159.33,Expense,-159.33
+2021-09-16,Health & Fitness,1031.04,Expense,-1031.04
+2021-09-17,Utilities,1906.05,Expense,-1906.05
+2021-09-17,Other,785.0,Income,785.0
+2021-09-19,Investment,3500.0,Income,3466.7799999999997
+2021-09-19,Food & Drink,1214.14,Expense,-1214.14
+2021-09-19,Health & Fitness,750.31,Expense,-750.31
+2021-09-19,Utilities,1063.63,Expense,-1063.63
+2021-09-20,Travel,506.73,Expense,-506.73
+2021-09-21,Investment,4588.0,Income,3466.7799999999997
+2021-09-28,Rent,530.94,Expense,-530.94
+2021-10-01,Salary,437.0,Expense,-437.0
+2021-10-07,Salary,408.35,Expense,-408.35
+2021-10-08,Investment,4203.0,Income,3466.7799999999997
+2021-10-13,Other,1219.0,Income,1219.0
+2021-10-13,Health & Fitness,1339.0,Expense,-1339.0
+2021-10-13,Travel,1783.75,Expense,-1783.75
+2021-10-16,Utilities,1589.46,Expense,-1589.46
+2021-10-20,Rent,1970.41,Expense,-1970.41
+2021-10-21,Entertainment,1582.84,Expense,-1582.84
+2021-10-22,Other,4328.0,Income,3466.7799999999997
+2021-10-24,Utilities,1227.78,Expense,-1227.78
+2021-10-24,Other,3761.0,Income,3466.7799999999997
+2021-10-27,Salary,1056.13,Expense,-1056.13
+2021-10-27,Rent,259.4,Expense,-259.4
+2021-10-30,Rent,905.45,Expense,-905.45
+2021-11-03,Health & Fitness,265.39,Expense,-265.39
+2021-11-04,Utilities,1537.89,Expense,-1537.89
+2021-11-05,Investment,1517.0,Income,1517.0
+2021-11-05,Travel,337.67,Expense,-337.67
+2021-11-06,Entertainment,698.59,Expense,-698.59
+2021-11-07,Travel,1693.41,Expense,-1693.41
+2021-11-10,Travel,259.09,Expense,-259.09
+2021-11-15,Rent,1010.12,Expense,-1010.12
+2021-11-16,Investment,1902.0,Income,1902.0
+2021-11-17,Health & Fitness,1686.63,Expense,-1686.63
+2021-11-18,Food & Drink,171.63,Expense,-171.63
+2021-11-18,Travel,1305.75,Expense,-1305.75
+2021-11-19,Shopping,1240.04,Expense,-1240.04
+2021-11-21,Other,2974.0,Income,2974.0
+2021-11-21,Shopping,601.89,Expense,-601.89
+2021-11-21,Investment,1794.0,Income,1794.0
+2021-11-23,Salary,934.24,Expense,-934.24
+2021-11-26,Utilities,632.04,Expense,-632.04
+2021-11-27,Health & Fitness,1950.99,Expense,-1950.99
+2021-11-28,Other,4718.0,Income,3466.7799999999997
+2021-12-01,Health & Fitness,491.06,Expense,-491.06
+2021-12-02,Other,2530.0,Income,2530.0
+2021-12-03,Investment,2877.0,Income,2877.0
+2021-12-03,Shopping,504.06,Expense,-504.06
+2021-12-08,Utilities,1628.82,Expense,-1628.82
+2021-12-09,Health & Fitness,387.77,Expense,-387.77
+2021-12-09,Other,4585.0,Income,3466.7799999999997
+2021-12-11,Salary,56.12,Expense,-56.12
+2021-12-12,Salary,1933.71,Expense,-1933.71
+2021-12-13,Health & Fitness,106.83,Expense,-106.83
+2021-12-13,Salary,578.64,Expense,-578.64
+2021-12-15,Investment,4030.0,Income,3466.7799999999997
+2021-12-15,Other,3496.0,Income,3466.7799999999997
+2021-12-16,Health & Fitness,100.03,Expense,-100.03
+2021-12-19,Investment,3469.0,Income,3466.7799999999997
+2021-12-20,Rent,778.83,Expense,-778.83
+2021-12-20,Travel,1652.37,Expense,-1652.37
+2021-12-23,Rent,266.04,Expense,-266.04
+2021-12-24,Other,3277.0,Income,3277.0
+2021-12-26,Health & Fitness,1512.38,Expense,-1512.38
+2021-12-28,Other,4596.0,Income,3466.7799999999997
+2021-12-31,Investment,1622.0,Income,1622.0
+2022-01-01,Salary,1043.47,Expense,-1043.47
+2022-01-03,Investment,3186.0,Income,3186.0
+2022-01-03,Health & Fitness,333.38,Expense,-333.38
+2022-01-03,Travel,1191.51,Expense,-1191.51
+2022-01-04,Salary,1420.39,Expense,-1420.39
+2022-01-05,Food & Drink,743.03,Expense,-743.03
+2022-01-06,Shopping,1171.57,Expense,-1171.57
+2022-01-08,Food & Drink,1197.85,Expense,-1197.85
+2022-01-09,Entertainment,1445.59,Expense,-1445.59
+2022-01-13,Utilities,1053.22,Expense,-1053.22
+2022-01-13,Shopping,304.07,Expense,-304.07
+2022-01-14,Food & Drink,1149.41,Expense,-1149.41
+2022-01-16,Entertainment,47.69,Expense,-47.69
+2022-01-16,Utilities,831.79,Expense,-831.79
+2022-01-18,Salary,1746.91,Expense,-1746.91
+2022-01-18,Food & Drink,1414.49,Expense,-1414.49
+2022-01-21,Health & Fitness,1996.26,Expense,-1996.26
+2022-01-21,Shopping,634.37,Expense,-634.37
+2022-01-22,Other,4975.0,Income,3466.7799999999997
+2022-01-23,Travel,1224.05,Expense,-1224.05
+2022-01-24,Investment,2785.0,Income,2785.0
+2022-01-28,Entertainment,1883.56,Expense,-1883.56
+2022-02-01,Travel,1412.75,Expense,-1412.75
+2022-02-02,Salary,640.91,Expense,-640.91
+2022-02-05,Travel,582.7,Expense,-582.7
+2022-02-05,Shopping,1792.56,Expense,-1792.56
+2022-02-06,Health & Fitness,1909.67,Expense,-1909.67
+2022-02-08,Travel,93.71,Expense,-93.71
+2022-02-08,Rent,699.26,Expense,-699.26
+2022-02-09,Travel,1497.2,Expense,-1497.2
+2022-02-10,Travel,1866.72,Expense,-1866.72
+2022-02-10,Utilities,227.36,Expense,-227.36
+2022-02-10,Entertainment,492.49,Expense,-492.49
+2022-02-10,Entertainment,1279.51,Expense,-1279.51
+2022-02-11,Other,3205.0,Income,3205.0
+2022-02-14,Rent,1365.57,Expense,-1365.57
+2022-02-17,Investment,3833.0,Income,3466.7799999999997
+2022-02-17,Salary,960.12,Expense,-960.12
+2022-02-17,Other,3131.0,Income,3131.0
+2022-02-17,Food & Drink,1816.79,Expense,-1816.79
+2022-02-18,Investment,4883.0,Income,3466.7799999999997
+2022-02-21,Food & Drink,1827.33,Expense,-1827.33
+2022-02-22,Investment,797.0,Income,797.0
+2022-02-22,Shopping,1578.04,Expense,-1578.04
+2022-02-25,Other,806.0,Income,806.0
+2022-02-27,Investment,3244.0,Income,3244.0
+2022-03-01,Salary,1779.63,Expense,-1779.63
+2022-03-02,Other,2735.0,Income,2735.0
+2022-03-04,Investment,3208.0,Income,3208.0
+2022-03-05,Other,2607.0,Income,2607.0
+2022-03-07,Food & Drink,1475.87,Expense,-1475.87
+2022-03-07,Entertainment,359.23,Expense,-359.23
+2022-03-12,Shopping,1655.71,Expense,-1655.71
+2022-03-14,Rent,807.66,Expense,-807.66
+2022-03-17,Investment,4411.0,Income,3466.7799999999997
+2022-03-17,Entertainment,23.59,Expense,-23.59
+2022-03-18,Salary,1509.98,Expense,-1509.98
+2022-03-18,Travel,1169.1,Expense,-1169.1
+2022-03-18,Travel,1310.83,Expense,-1310.83
+2022-03-20,Food & Drink,1338.89,Expense,-1338.89
+2022-03-20,Utilities,816.78,Expense,-816.78
+2022-03-22,Travel,1383.68,Expense,-1383.68
+2022-03-23,Travel,741.41,Expense,-741.41
+2022-03-23,Utilities,961.58,Expense,-961.58
+2022-03-24,Health & Fitness,837.53,Expense,-837.53
+2022-03-25,Salary,1517.13,Expense,-1517.13
+2022-03-26,Entertainment,1526.1,Expense,-1526.1
+2022-03-27,Rent,1055.76,Expense,-1055.76
+2022-03-28,Health & Fitness,165.42,Expense,-165.42
+2022-03-28,Food & Drink,1659.26,Expense,-1659.26
+2022-03-28,Entertainment,1149.68,Expense,-1149.68
+2022-03-28,Other,4762.0,Income,3466.7799999999997
+2022-03-29,Entertainment,1436.67,Expense,-1436.67
+2022-03-29,Salary,1619.3,Expense,-1619.3
+2022-03-31,Shopping,919.03,Expense,-919.03
+2022-03-31,Other,3024.0,Income,3024.0
+2022-03-31,Shopping,516.37,Expense,-516.37
+2022-04-01,Investment,1098.0,Income,1098.0
+2022-04-01,Other,1022.0,Income,1022.0
+2022-04-01,Food & Drink,1869.82,Expense,-1869.82
+2022-04-01,Other,759.0,Income,759.0
+2022-04-02,Utilities,1540.25,Expense,-1540.25
+2022-04-02,Shopping,755.18,Expense,-755.18
+2022-04-03,Salary,1740.54,Expense,-1740.54
+2022-04-03,Shopping,169.7,Expense,-169.7
+2022-04-04,Utilities,1310.53,Expense,-1310.53
+2022-04-05,Utilities,1985.77,Expense,-1985.77
+2022-04-08,Utilities,1458.44,Expense,-1458.44
+2022-04-09,Food & Drink,1514.8,Expense,-1514.8
+2022-04-09,Salary,1350.26,Expense,-1350.26
+2022-04-10,Shopping,1648.49,Expense,-1648.49
+2022-04-10,Health & Fitness,318.69,Expense,-318.69
+2022-04-16,Investment,763.0,Income,763.0
+2022-04-18,Shopping,1233.7,Expense,-1233.7
+2022-04-18,Food & Drink,488.93,Expense,-488.93
+2022-04-21,Investment,4157.0,Income,3466.7799999999997
+2022-04-22,Food & Drink,497.02,Expense,-497.02
+2022-04-22,Other,2419.0,Income,2419.0
+2022-04-24,Food & Drink,288.87,Expense,-288.87
+2022-04-24,Entertainment,1633.41,Expense,-1633.41
+2022-04-29,Health & Fitness,1159.17,Expense,-1159.17
+2022-04-30,Health & Fitness,481.44,Expense,-481.44
+2022-05-02,Entertainment,832.98,Expense,-832.98
+2022-05-02,Utilities,1255.73,Expense,-1255.73
+2022-05-03,Salary,103.3,Expense,-103.3
+2022-05-05,Shopping,1573.75,Expense,-1573.75
+2022-05-05,Shopping,822.44,Expense,-822.44
+2022-05-06,Utilities,1511.29,Expense,-1511.29
+2022-05-07,Entertainment,608.47,Expense,-608.47
+2022-05-07,Salary,1830.33,Expense,-1830.33
+2022-05-07,Shopping,1119.0,Expense,-1119.0
+2022-05-08,Investment,2588.0,Income,2588.0
+2022-05-08,Rent,1845.23,Expense,-1845.23
+2022-05-09,Rent,1075.91,Expense,-1075.91
+2022-05-09,Food & Drink,544.24,Expense,-544.24
+2022-05-11,Food & Drink,1748.5,Expense,-1748.5
+2022-05-13,Investment,4427.0,Income,3466.7799999999997
+2022-05-13,Health & Fitness,613.34,Expense,-613.34
+2022-05-14,Entertainment,1874.95,Expense,-1874.95
+2022-05-19,Rent,1496.29,Expense,-1496.29
+2022-05-19,Entertainment,1394.3,Expense,-1394.3
+2022-05-20,Shopping,1831.1,Expense,-1831.1
+2022-05-20,Travel,767.52,Expense,-767.52
+2022-05-22,Health & Fitness,623.76,Expense,-623.76
+2022-05-23,Salary,937.35,Expense,-937.35
+2022-05-24,Salary,1525.64,Expense,-1525.64
+2022-05-24,Entertainment,747.7,Expense,-747.7
+2022-05-25,Entertainment,1485.09,Expense,-1485.09
+2022-05-27,Other,2918.0,Income,2918.0
+2022-05-28,Other,2384.0,Income,2384.0
+2022-05-29,Entertainment,1003.61,Expense,-1003.61
+2022-05-29,Health & Fitness,522.08,Expense,-522.08
+2022-05-30,Salary,927.05,Expense,-927.05
+2022-05-30,Health & Fitness,346.84,Expense,-346.84
+2022-05-31,Salary,376.26,Expense,-376.26
+2022-06-01,Food & Drink,1052.65,Expense,-1052.65
+2022-06-01,Rent,1890.92,Expense,-1890.92
+2022-06-04,Food & Drink,830.66,Expense,-830.66
+2022-06-04,Entertainment,145.26,Expense,-145.26
+2022-06-06,Investment,4642.0,Income,3466.7799999999997
+2022-06-07,Food & Drink,1239.49,Expense,-1239.49
+2022-06-07,Salary,1321.98,Expense,-1321.98
+2022-06-11,Other,597.0,Income,597.0
+2022-06-11,Other,4888.0,Income,3466.7799999999997
+2022-06-12,Food & Drink,1009.41,Expense,-1009.41
+2022-06-12,Shopping,1614.27,Expense,-1614.27
+2022-06-12,Rent,1836.92,Expense,-1836.92
+2022-06-13,Entertainment,391.94,Expense,-391.94
+2022-06-17,Health & Fitness,541.98,Expense,-541.98
+2022-06-17,Health & Fitness,1919.0,Expense,-1919.0
+2022-06-18,Entertainment,1980.56,Expense,-1980.56
+2022-06-19,Rent,1310.93,Expense,-1310.93
+2022-06-20,Food & Drink,196.07,Expense,-196.07
+2022-06-21,Salary,121.67,Expense,-121.67
+2022-06-21,Investment,1177.0,Income,1177.0
+2022-06-23,Shopping,1293.37,Expense,-1293.37
+2022-06-23,Rent,1790.63,Expense,-1790.63
+2022-06-25,Entertainment,430.72,Expense,-430.72
+2022-06-25,Salary,549.48,Expense,-549.48
+2022-06-26,Travel,1799.63,Expense,-1799.63
+2022-06-26,Food & Drink,366.92,Expense,-366.92
+2022-06-30,Food & Drink,1923.32,Expense,-1923.32
+2022-07-01,Shopping,1858.46,Expense,-1858.46
+2022-07-02,Entertainment,1137.72,Expense,-1137.72
+2022-07-04,Health & Fitness,773.85,Expense,-773.85
+2022-07-04,Rent,1006.58,Expense,-1006.58
+2022-07-04,Food & Drink,204.39,Expense,-204.39
+2022-07-05,Rent,687.78,Expense,-687.78
+2022-07-06,Shopping,1938.15,Expense,-1938.15
+2022-07-13,Travel,1569.26,Expense,-1569.26
+2022-07-17,Entertainment,718.06,Expense,-718.06
+2022-07-17,Shopping,379.62,Expense,-379.62
+2022-07-17,Shopping,180.53,Expense,-180.53
+2022-07-18,Entertainment,1429.09,Expense,-1429.09
+2022-07-18,Investment,3612.0,Income,3466.7799999999997
+2022-07-19,Utilities,1481.91,Expense,-1481.91
+2022-07-20,Rent,192.13,Expense,-192.13
+2022-07-22,Salary,726.24,Expense,-726.24
+2022-07-25,Utilities,183.72,Expense,-183.72
+2022-07-27,Shopping,215.55,Expense,-215.55
+2022-07-27,Investment,3157.0,Income,3157.0
+2022-07-27,Food & Drink,590.78,Expense,-590.78
+2022-07-27,Rent,1452.44,Expense,-1452.44
+2022-07-28,Entertainment,1148.2,Expense,-1148.2
+2022-07-28,Other,1888.0,Income,1888.0
+2022-07-29,Other,2698.0,Income,2698.0
+2022-07-30,Rent,342.74,Expense,-342.74
+2022-07-31,Travel,973.62,Expense,-973.62
+2022-08-02,Other,2520.0,Income,2520.0
+2022-08-02,Salary,1191.67,Expense,-1191.67
+2022-08-03,Investment,1609.0,Income,1609.0
+2022-08-04,Shopping,671.11,Expense,-671.11
+2022-08-06,Health & Fitness,886.04,Expense,-886.04
+2022-08-07,Utilities,607.87,Expense,-607.87
+2022-08-12,Entertainment,963.23,Expense,-963.23
+2022-08-13,Other,3114.0,Income,3114.0
+2022-08-15,Salary,1935.85,Expense,-1935.85
+2022-08-15,Health & Fitness,758.35,Expense,-758.35
+2022-08-16,Shopping,736.38,Expense,-736.38
+2022-08-16,Entertainment,1188.53,Expense,-1188.53
+2022-08-17,Food & Drink,1906.48,Expense,-1906.48
+2022-08-18,Entertainment,882.53,Expense,-882.53
+2022-08-19,Rent,1639.74,Expense,-1639.74
+2022-08-21,Shopping,1349.23,Expense,-1349.23
+2022-08-21,Other,2482.0,Income,2482.0
+2022-08-22,Utilities,1433.32,Expense,-1433.32
+2022-08-22,Rent,903.64,Expense,-903.64
+2022-08-23,Shopping,1073.39,Expense,-1073.39
+2022-08-24,Shopping,1091.85,Expense,-1091.85
+2022-08-26,Health & Fitness,1406.25,Expense,-1406.25
+2022-08-26,Rent,227.65,Expense,-227.65
+2022-08-28,Health & Fitness,341.01,Expense,-341.01
+2022-08-29,Shopping,1933.95,Expense,-1933.95
+2022-08-30,Shopping,220.83,Expense,-220.83
+2022-08-31,Investment,4683.0,Income,3466.7799999999997
+2022-08-31,Entertainment,897.1,Expense,-897.1
+2022-09-01,Utilities,696.49,Expense,-696.49
+2022-09-02,Investment,2920.0,Income,2920.0
+2022-09-03,Rent,240.98,Expense,-240.98
+2022-09-03,Utilities,703.17,Expense,-703.17
+2022-09-03,Entertainment,1047.02,Expense,-1047.02
+2022-09-04,Rent,881.95,Expense,-881.95
+2022-09-04,Health & Fitness,143.68,Expense,-143.68
+2022-09-05,Investment,685.0,Income,685.0
+2022-09-06,Rent,1357.51,Expense,-1357.51
+2022-09-07,Investment,4727.0,Income,3466.7799999999997
+2022-09-08,Investment,3211.0,Income,3211.0
+2022-09-10,Salary,471.39,Expense,-471.39
+2022-09-11,Utilities,380.91,Expense,-380.91
+2022-09-11,Shopping,68.09,Expense,-68.09
+2022-09-12,Entertainment,904.65,Expense,-904.65
+2022-09-14,Food & Drink,1412.42,Expense,-1412.42
+2022-09-15,Rent,1158.92,Expense,-1158.92
+2022-09-15,Utilities,737.93,Expense,-737.93
+2022-09-17,Investment,2649.0,Income,2649.0
+2022-09-18,Salary,1060.15,Expense,-1060.15
+2022-09-19,Shopping,1226.5,Expense,-1226.5
+2022-09-19,Health & Fitness,710.45,Expense,-710.45
+2022-09-21,Utilities,1629.34,Expense,-1629.34
+2022-09-23,Travel,1838.18,Expense,-1838.18
+2022-09-26,Utilities,633.24,Expense,-633.24
+2022-09-26,Rent,374.26,Expense,-374.26
+2022-09-28,Shopping,842.3,Expense,-842.3
+2022-09-29,Other,3965.0,Income,3466.7799999999997
+2022-09-29,Investment,1866.0,Income,1866.0
+2022-09-30,Utilities,382.33,Expense,-382.33
+2022-10-01,Food & Drink,1732.39,Expense,-1732.39
+2022-10-02,Salary,281.7,Expense,-281.7
+2022-10-03,Salary,824.18,Expense,-824.18
+2022-10-04,Salary,982.51,Expense,-982.51
+2022-10-04,Investment,2306.0,Income,2306.0
+2022-10-05,Travel,457.44,Expense,-457.44
+2022-10-08,Salary,1135.64,Expense,-1135.64
+2022-10-10,Salary,1103.96,Expense,-1103.96
+2022-10-12,Investment,2694.0,Income,2694.0
+2022-10-12,Health & Fitness,1088.67,Expense,-1088.67
+2022-10-13,Salary,1097.24,Expense,-1097.24
+2022-10-19,Rent,1474.62,Expense,-1474.62
+2022-10-19,Entertainment,602.44,Expense,-602.44
+2022-10-20,Salary,533.0,Expense,-533.0
+2022-10-21,Rent,883.75,Expense,-883.75
+2022-10-22,Entertainment,427.66,Expense,-427.66
+2022-10-23,Health & Fitness,1723.49,Expense,-1723.49
+2022-10-25,Shopping,340.3,Expense,-340.3
+2022-10-28,Investment,2195.0,Income,2195.0
+2022-10-30,Health & Fitness,1069.24,Expense,-1069.24
+2022-10-31,Utilities,654.07,Expense,-654.07
+2022-11-03,Travel,1149.74,Expense,-1149.74
+2022-11-04,Rent,279.82,Expense,-279.82
+2022-11-05,Shopping,1838.35,Expense,-1838.35
+2022-11-07,Utilities,1405.84,Expense,-1405.84
+2022-11-07,Investment,3138.0,Income,3138.0
+2022-11-09,Shopping,984.02,Expense,-984.02
+2022-11-10,Travel,1259.35,Expense,-1259.35
+2022-11-13,Rent,1270.92,Expense,-1270.92
+2022-11-14,Rent,811.67,Expense,-811.67
+2022-11-14,Health & Fitness,914.84,Expense,-914.84
+2022-11-15,Food & Drink,1739.13,Expense,-1739.13
+2022-11-17,Rent,1464.55,Expense,-1464.55
+2022-11-17,Health & Fitness,1701.71,Expense,-1701.71
+2022-11-18,Shopping,443.48,Expense,-443.48
+2022-11-19,Entertainment,994.48,Expense,-994.48
+2022-11-21,Travel,682.13,Expense,-682.13
+2022-11-22,Salary,1578.72,Expense,-1578.72
+2022-11-26,Food & Drink,101.43,Expense,-101.43
+2022-11-26,Salary,42.4,Expense,-42.4
+2022-11-28,Utilities,888.16,Expense,-888.16
+2022-11-28,Other,2157.0,Income,2157.0
+2022-12-01,Utilities,1765.47,Expense,-1765.47
+2022-12-03,Travel,195.75,Expense,-195.75
+2022-12-04,Rent,749.97,Expense,-749.97
+2022-12-05,Utilities,113.06,Expense,-113.06
+2022-12-05,Entertainment,864.17,Expense,-864.17
+2022-12-07,Investment,508.0,Income,508.0
+2022-12-12,Rent,274.07,Expense,-274.07
+2022-12-13,Salary,28.48,Expense,-28.48
+2022-12-15,Rent,1976.43,Expense,-1976.43
+2022-12-16,Utilities,960.62,Expense,-960.62
+2022-12-18,Rent,1464.22,Expense,-1464.22
+2022-12-22,Other,3511.0,Income,3466.7799999999997
+2022-12-28,Utilities,771.61,Expense,-771.61
+2022-12-30,Utilities,1286.74,Expense,-1286.74
+2022-12-31,Rent,1065.71,Expense,-1065.71
+2023-01-03,Investment,4105.0,Income,3466.7799999999997
+2023-01-04,Entertainment,1259.88,Expense,-1259.88
+2023-01-04,Other,4124.0,Income,3466.7799999999997
+2023-01-06,Rent,1794.22,Expense,-1794.22
+2023-01-09,Investment,3645.0,Income,3466.7799999999997
+2023-01-10,Shopping,635.86,Expense,-635.86
+2023-01-11,Other,1190.0,Income,1190.0
+2023-01-13,Travel,1560.15,Expense,-1560.15
+2023-01-15,Travel,418.84,Expense,-418.84
+2023-01-16,Entertainment,1498.21,Expense,-1498.21
+2023-01-17,Food & Drink,1569.77,Expense,-1569.77
+2023-01-18,Entertainment,994.83,Expense,-994.83
+2023-01-19,Other,1081.0,Income,1081.0
+2023-01-19,Food & Drink,1973.9,Expense,-1973.9
+2023-01-19,Utilities,779.81,Expense,-779.81
+2023-01-19,Shopping,737.17,Expense,-737.17
+2023-01-19,Salary,1909.36,Expense,-1909.36
+2023-01-20,Food & Drink,1178.85,Expense,-1178.85
+2023-01-21,Investment,826.0,Income,826.0
+2023-01-21,Shopping,1018.16,Expense,-1018.16
+2023-01-22,Shopping,852.91,Expense,-852.91
+2023-01-23,Utilities,562.16,Expense,-562.16
+2023-01-23,Entertainment,1948.88,Expense,-1948.88
+2023-01-23,Other,3700.0,Income,3466.7799999999997
+2023-01-24,Rent,627.24,Expense,-627.24
+2023-01-24,Entertainment,125.23,Expense,-125.23
+2023-01-24,Other,1450.0,Income,1450.0
+2023-01-24,Food & Drink,625.49,Expense,-625.49
+2023-01-24,Utilities,247.69,Expense,-247.69
+2023-01-24,Food & Drink,336.03,Expense,-336.03
+2023-01-25,Travel,342.26,Expense,-342.26
+2023-01-26,Other,1467.0,Income,1467.0
+2023-01-27,Food & Drink,676.67,Expense,-676.67
+2023-01-27,Rent,533.27,Expense,-533.27
+2023-01-28,Rent,997.33,Expense,-997.33
+2023-01-29,Food & Drink,1004.22,Expense,-1004.22
+2023-01-29,Health & Fitness,323.05,Expense,-323.05
+2023-01-30,Rent,464.52,Expense,-464.52
+2023-01-31,Food & Drink,1718.79,Expense,-1718.79
+2023-01-31,Investment,4364.0,Income,3466.7799999999997
+2023-02-01,Utilities,366.13,Expense,-366.13
+2023-02-02,Food & Drink,1110.2,Expense,-1110.2
+2023-02-03,Shopping,456.79,Expense,-456.79
+2023-02-06,Health & Fitness,549.8,Expense,-549.8
+2023-02-07,Other,1478.0,Income,1478.0
+2023-02-07,Food & Drink,366.9,Expense,-366.9
+2023-02-08,Food & Drink,1908.62,Expense,-1908.62
+2023-02-08,Other,2812.0,Income,2812.0
+2023-02-09,Travel,661.33,Expense,-661.33
+2023-02-12,Food & Drink,744.15,Expense,-744.15
+2023-02-13,Travel,1481.76,Expense,-1481.76
+2023-02-15,Health & Fitness,1187.46,Expense,-1187.46
+2023-02-16,Entertainment,1467.6,Expense,-1467.6
+2023-02-18,Entertainment,309.63,Expense,-309.63
+2023-02-20,Food & Drink,473.67,Expense,-473.67
+2023-02-20,Food & Drink,1902.47,Expense,-1902.47
+2023-02-22,Other,3019.0,Income,3019.0
+2023-02-22,Investment,3939.0,Income,3466.7799999999997
+2023-02-24,Food & Drink,1945.39,Expense,-1945.39
+2023-02-26,Other,1262.0,Income,1262.0
+2023-02-26,Investment,4757.0,Income,3466.7799999999997
+2023-02-26,Health & Fitness,922.33,Expense,-922.33
+2023-02-28,Rent,1015.8,Expense,-1015.8
+2023-03-03,Shopping,158.91,Expense,-158.91
+2023-03-03,Shopping,1328.26,Expense,-1328.26
+2023-03-05,Other,2638.0,Income,2638.0
+2023-03-05,Shopping,1404.44,Expense,-1404.44
+2023-03-05,Health & Fitness,910.99,Expense,-910.99
+2023-03-07,Entertainment,280.86,Expense,-280.86
+2023-03-08,Rent,319.27,Expense,-319.27
+2023-03-08,Other,3072.0,Income,3072.0
+2023-03-08,Health & Fitness,1929.62,Expense,-1929.62
+2023-03-08,Travel,932.06,Expense,-932.06
+2023-03-10,Rent,323.65,Expense,-323.65
+2023-03-10,Food & Drink,437.89,Expense,-437.89
+2023-03-12,Utilities,191.51,Expense,-191.51
+2023-03-13,Health & Fitness,798.53,Expense,-798.53
+2023-03-13,Other,2631.0,Income,2631.0
+2023-03-13,Utilities,71.85,Expense,-71.85
+2023-03-15,Salary,1116.35,Expense,-1116.35
+2023-03-15,Rent,929.47,Expense,-929.47
+2023-03-16,Utilities,251.69,Expense,-251.69
+2023-03-16,Investment,1570.0,Income,1570.0
+2023-03-18,Other,3549.0,Income,3466.7799999999997
+2023-03-18,Rent,1168.82,Expense,-1168.82
+2023-03-21,Rent,53.38,Expense,-53.38
+2023-03-22,Other,1555.0,Income,1555.0
+2023-03-23,Other,1503.0,Income,1503.0
+2023-03-23,Other,914.0,Income,914.0
+2023-03-23,Other,3735.0,Income,3466.7799999999997
+2023-03-24,Shopping,1369.59,Expense,-1369.59
+2023-03-27,Investment,2033.0,Income,2033.0
+2023-03-29,Salary,1768.01,Expense,-1768.01
+2023-03-30,Investment,2917.0,Income,2917.0
+2023-03-31,Salary,131.35,Expense,-131.35
+2023-03-31,Utilities,844.28,Expense,-844.28
+2023-04-01,Entertainment,1265.2,Expense,-1265.2
+2023-04-01,Food & Drink,1978.91,Expense,-1978.91
+2023-04-04,Health & Fitness,964.57,Expense,-964.57
+2023-04-07,Health & Fitness,1826.23,Expense,-1826.23
+2023-04-08,Shopping,548.17,Expense,-548.17
+2023-04-09,Investment,740.0,Income,740.0
+2023-04-10,Travel,126.6,Expense,-126.6
+2023-04-10,Health & Fitness,1536.02,Expense,-1536.02
+2023-04-13,Utilities,209.27,Expense,-209.27
+2023-04-15,Travel,1072.04,Expense,-1072.04
+2023-04-16,Food & Drink,1530.46,Expense,-1530.46
+2023-04-20,Shopping,716.06,Expense,-716.06
+2023-04-20,Utilities,360.44,Expense,-360.44
+2023-04-21,Health & Fitness,1828.82,Expense,-1828.82
+2023-04-22,Other,1664.0,Income,1664.0
+2023-04-22,Entertainment,1675.03,Expense,-1675.03
+2023-04-23,Salary,1088.83,Expense,-1088.83
+2023-04-24,Investment,1239.0,Income,1239.0
+2023-04-25,Investment,663.0,Income,663.0
+2023-05-02,Food & Drink,670.15,Expense,-670.15
+2023-05-02,Utilities,688.11,Expense,-688.11
+2023-05-03,Other,987.0,Income,987.0
+2023-05-05,Investment,1408.0,Income,1408.0
+2023-05-05,Health & Fitness,1921.51,Expense,-1921.51
+2023-05-05,Shopping,1176.17,Expense,-1176.17
+2023-05-07,Health & Fitness,281.54,Expense,-281.54
+2023-05-12,Other,4491.0,Income,3466.7799999999997
+2023-05-14,Utilities,1417.29,Expense,-1417.29
+2023-05-14,Health & Fitness,454.24,Expense,-454.24
+2023-05-14,Utilities,762.98,Expense,-762.98
+2023-05-15,Travel,263.42,Expense,-263.42
+2023-05-15,Shopping,1703.01,Expense,-1703.01
+2023-05-16,Food & Drink,372.34,Expense,-372.34
+2023-05-17,Entertainment,1282.9,Expense,-1282.9
+2023-05-18,Other,1652.0,Income,1652.0
+2023-05-19,Rent,483.61,Expense,-483.61
+2023-05-20,Utilities,1276.01,Expense,-1276.01
+2023-05-20,Health & Fitness,898.79,Expense,-898.79
+2023-05-20,Entertainment,1389.42,Expense,-1389.42
+2023-05-22,Rent,1443.62,Expense,-1443.62
+2023-05-22,Other,3937.0,Income,3466.7799999999997
+2023-05-22,Shopping,991.23,Expense,-991.23
+2023-05-25,Shopping,211.84,Expense,-211.84
+2023-05-28,Entertainment,333.69,Expense,-333.69
+2023-05-29,Investment,2915.0,Income,2915.0
+2023-05-29,Other,1357.0,Income,1357.0
+2023-05-30,Investment,3575.0,Income,3466.7799999999997
+2023-06-02,Investment,4981.0,Income,3466.7799999999997
+2023-06-03,Rent,682.52,Expense,-682.52
+2023-06-04,Salary,1411.96,Expense,-1411.96
+2023-06-05,Utilities,1218.56,Expense,-1218.56
+2023-06-08,Food & Drink,211.5,Expense,-211.5
+2023-06-08,Entertainment,824.47,Expense,-824.47
+2023-06-09,Travel,1324.59,Expense,-1324.59
+2023-06-09,Rent,108.77,Expense,-108.77
+2023-06-10,Salary,315.64,Expense,-315.64
+2023-06-10,Shopping,184.38,Expense,-184.38
+2023-06-13,Salary,407.35,Expense,-407.35
+2023-06-15,Investment,2890.0,Income,2890.0
+2023-06-16,Salary,1689.1,Expense,-1689.1
+2023-06-16,Shopping,947.18,Expense,-947.18
+2023-06-17,Travel,191.36,Expense,-191.36
+2023-06-17,Utilities,748.33,Expense,-748.33
+2023-06-19,Utilities,897.09,Expense,-897.09
+2023-06-21,Salary,534.17,Expense,-534.17
+2023-06-22,Food & Drink,310.75,Expense,-310.75
+2023-06-22,Rent,180.56,Expense,-180.56
+2023-06-23,Shopping,1941.7,Expense,-1941.7
+2023-06-25,Food & Drink,1683.19,Expense,-1683.19
+2023-06-25,Shopping,1931.6,Expense,-1931.6
+2023-06-25,Salary,1149.7,Expense,-1149.7
+2023-06-26,Travel,167.12,Expense,-167.12
+2023-06-30,Food & Drink,1009.18,Expense,-1009.18
+2023-07-01,Utilities,249.36,Expense,-249.36
+2023-07-02,Utilities,1898.63,Expense,-1898.63
+2023-07-05,Investment,2078.0,Income,2078.0
+2023-07-05,Other,1141.0,Income,1141.0
+2023-07-06,Shopping,411.82,Expense,-411.82
+2023-07-07,Utilities,1669.88,Expense,-1669.88
+2023-07-07,Rent,183.18,Expense,-183.18
+2023-07-10,Health & Fitness,1714.68,Expense,-1714.68
+2023-07-10,Food & Drink,1575.24,Expense,-1575.24
+2023-07-10,Shopping,233.91,Expense,-233.91
+2023-07-10,Investment,1365.0,Income,1365.0
+2023-07-11,Rent,1573.63,Expense,-1573.63
+2023-07-13,Health & Fitness,1757.01,Expense,-1757.01
+2023-07-15,Salary,1148.33,Expense,-1148.33
+2023-07-15,Utilities,558.07,Expense,-558.07
+2023-07-15,Other,817.0,Income,817.0
+2023-07-15,Health & Fitness,1384.12,Expense,-1384.12
+2023-07-15,Other,2700.0,Income,2700.0
+2023-07-16,Food & Drink,682.35,Expense,-682.35
+2023-07-17,Travel,567.89,Expense,-567.89
+2023-07-18,Rent,1945.27,Expense,-1945.27
+2023-07-19,Travel,1948.7,Expense,-1948.7
+2023-07-19,Health & Fitness,546.15,Expense,-546.15
+2023-07-20,Rent,383.99,Expense,-383.99
+2023-07-21,Shopping,1484.48,Expense,-1484.48
+2023-07-23,Health & Fitness,1643.82,Expense,-1643.82
+2023-07-25,Utilities,140.58,Expense,-140.58
+2023-07-26,Shopping,279.94,Expense,-279.94
+2023-07-27,Food & Drink,355.74,Expense,-355.74
+2023-07-27,Entertainment,1675.58,Expense,-1675.58
+2023-07-30,Salary,110.61,Expense,-110.61
+2023-08-01,Entertainment,555.22,Expense,-555.22
+2023-08-04,Shopping,1274.47,Expense,-1274.47
+2023-08-05,Investment,2481.0,Income,2481.0
+2023-08-07,Salary,363.39,Expense,-363.39
+2023-08-07,Health & Fitness,695.06,Expense,-695.06
+2023-08-09,Travel,1500.43,Expense,-1500.43
+2023-08-09,Travel,64.63,Expense,-64.63
+2023-08-10,Investment,2313.0,Income,2313.0
+2023-08-10,Entertainment,545.48,Expense,-545.48
+2023-08-11,Food & Drink,1730.61,Expense,-1730.61
+2023-08-16,Food & Drink,953.45,Expense,-953.45
+2023-08-17,Investment,569.0,Income,569.0
+2023-08-17,Travel,1428.35,Expense,-1428.35
+2023-08-21,Travel,853.38,Expense,-853.38
+2023-08-22,Health & Fitness,923.41,Expense,-923.41
+2023-08-23,Travel,1357.62,Expense,-1357.62
+2023-08-25,Shopping,1173.13,Expense,-1173.13
+2023-08-27,Other,2815.0,Income,2815.0
+2023-08-30,Rent,968.66,Expense,-968.66
+2023-08-30,Travel,1284.78,Expense,-1284.78
+2023-08-30,Travel,1315.68,Expense,-1315.68
+2023-08-30,Travel,384.84,Expense,-384.84
+2023-09-01,Entertainment,1800.38,Expense,-1800.38
+2023-09-01,Shopping,1324.46,Expense,-1324.46
+2023-09-03,Food & Drink,1314.25,Expense,-1314.25
+2023-09-04,Travel,1814.75,Expense,-1814.75
+2023-09-04,Food & Drink,1170.22,Expense,-1170.22
+2023-09-04,Entertainment,692.9,Expense,-692.9
+2023-09-07,Salary,1813.99,Expense,-1813.99
+2023-09-10,Travel,1692.38,Expense,-1692.38
+2023-09-11,Utilities,594.63,Expense,-594.63
+2023-09-11,Travel,1453.12,Expense,-1453.12
+2023-09-12,Utilities,1894.38,Expense,-1894.38
+2023-09-12,Rent,452.28,Expense,-452.28
+2023-09-13,Travel,846.74,Expense,-846.74
+2023-09-14,Health & Fitness,528.51,Expense,-528.51
+2023-09-14,Rent,946.37,Expense,-946.37
+2023-09-14,Rent,949.72,Expense,-949.72
+2023-09-15,Investment,3626.0,Income,3466.7799999999997
+2023-09-15,Shopping,117.58,Expense,-117.58
+2023-09-16,Utilities,1984.77,Expense,-1984.77
+2023-09-16,Salary,295.02,Expense,-295.02
+2023-09-21,Utilities,1560.09,Expense,-1560.09
+2023-09-21,Utilities,633.69,Expense,-633.69
+2023-09-23,Other,2740.0,Income,2740.0
+2023-09-24,Utilities,1156.8,Expense,-1156.8
+2023-09-28,Investment,1560.0,Income,1560.0
+2023-09-29,Shopping,812.75,Expense,-812.75
+2023-10-03,Shopping,19.29,Expense,-19.29
+2023-10-04,Health & Fitness,1900.64,Expense,-1900.64
+2023-10-04,Entertainment,45.65,Expense,-45.65
+2023-10-05,Investment,2353.0,Income,2353.0
+2023-10-06,Health & Fitness,631.06,Expense,-631.06
+2023-10-08,Other,1868.0,Income,1868.0
+2023-10-08,Investment,2942.0,Income,2942.0
+2023-10-08,Salary,1458.39,Expense,-1458.39
+2023-10-09,Health & Fitness,872.99,Expense,-872.99
+2023-10-09,Utilities,692.04,Expense,-692.04
+2023-10-11,Health & Fitness,1502.73,Expense,-1502.73
+2023-10-13,Other,656.0,Income,656.0
+2023-10-14,Utilities,430.27,Expense,-430.27
+2023-10-14,Investment,1508.0,Income,1508.0
+2023-10-15,Food & Drink,756.63,Expense,-756.63
+2023-10-15,Food & Drink,1191.91,Expense,-1191.91
+2023-10-16,Investment,661.0,Income,661.0
+2023-10-17,Investment,3914.0,Income,3466.7799999999997
+2023-10-17,Rent,1099.09,Expense,-1099.09
+2023-10-27,Utilities,418.93,Expense,-418.93
+2023-10-27,Food & Drink,609.22,Expense,-609.22
+2023-10-29,Travel,1249.37,Expense,-1249.37
+2023-10-30,Shopping,1663.0,Expense,-1663.0
+2023-10-30,Investment,2815.0,Income,2815.0
+2023-11-04,Investment,4577.0,Income,3466.7799999999997
+2023-11-05,Investment,2654.0,Income,2654.0
+2023-11-08,Entertainment,722.26,Expense,-722.26
+2023-11-08,Utilities,88.42,Expense,-88.42
+2023-11-08,Entertainment,1379.53,Expense,-1379.53
+2023-11-09,Entertainment,15.45,Expense,-15.45
+2023-11-09,Rent,1672.11,Expense,-1672.11
+2023-11-11,Utilities,1899.4,Expense,-1899.4
+2023-11-11,Rent,1449.89,Expense,-1449.89
+2023-11-13,Other,2393.0,Income,2393.0
+2023-11-14,Travel,535.61,Expense,-535.61
+2023-11-14,Investment,823.0,Income,823.0
+2023-11-15,Health & Fitness,1605.18,Expense,-1605.18
+2023-11-17,Rent,199.05,Expense,-199.05
+2023-11-18,Food & Drink,29.25,Expense,-29.25
+2023-11-21,Investment,3192.0,Income,3192.0
+2023-11-21,Salary,1910.63,Expense,-1910.63
+2023-11-22,Rent,751.52,Expense,-751.52
+2023-11-23,Rent,807.55,Expense,-807.55
+2023-11-23,Travel,1673.06,Expense,-1673.06
+2023-11-26,Salary,1601.8,Expense,-1601.8
+2023-11-26,Utilities,234.98,Expense,-234.98
+2023-11-26,Food & Drink,1963.32,Expense,-1963.32
+2023-11-26,Rent,837.9,Expense,-837.9
+2023-11-27,Salary,370.71,Expense,-370.71
+2023-11-27,Health & Fitness,1226.6,Expense,-1226.6
+2023-11-28,Utilities,971.33,Expense,-971.33
+2023-11-28,Shopping,886.97,Expense,-886.97
+2023-11-29,Other,601.0,Income,601.0
+2023-12-05,Entertainment,1956.01,Expense,-1956.01
+2023-12-05,Health & Fitness,1043.01,Expense,-1043.01
+2023-12-06,Rent,871.37,Expense,-871.37
+2023-12-08,Salary,698.04,Expense,-698.04
+2023-12-09,Shopping,305.82,Expense,-305.82
+2023-12-09,Food & Drink,33.17,Expense,-33.17
+2023-12-10,Salary,1705.22,Expense,-1705.22
+2023-12-11,Rent,1505.35,Expense,-1505.35
+2023-12-13,Health & Fitness,1940.59,Expense,-1940.59
+2023-12-14,Investment,3601.0,Income,3466.7799999999997
+2023-12-14,Entertainment,166.87,Expense,-166.87
+2023-12-18,Salary,185.16,Expense,-185.16
+2023-12-20,Health & Fitness,246.23,Expense,-246.23
+2023-12-21,Food & Drink,214.26,Expense,-214.26
+2023-12-22,Food & Drink,1653.56,Expense,-1653.56
+2023-12-23,Travel,1781.32,Expense,-1781.32
+2023-12-25,Salary,1901.21,Expense,-1901.21
+2023-12-26,Food & Drink,1635.01,Expense,-1635.01
+2023-12-27,Health & Fitness,1124.7,Expense,-1124.7
+2023-12-29,Salary,1436.15,Expense,-1436.15
+2023-12-29,Salary,236.91,Expense,-236.91
+2023-12-29,Entertainment,14.37,Expense,-14.37
+2024-01-02,Travel,1099.9,Expense,-1099.9
+2024-01-02,Rent,101.1,Expense,-101.1
+2024-01-04,Investment,3852.0,Income,3466.7799999999997
+2024-01-04,Investment,2036.0,Income,2036.0
+2024-01-07,Other,2266.0,Income,2266.0
+2024-01-09,Entertainment,1436.41,Expense,-1436.41
+2024-01-09,Other,880.0,Income,880.0
+2024-01-10,Rent,1546.57,Expense,-1546.57
+2024-01-11,Utilities,1928.07,Expense,-1928.07
+2024-01-11,Investment,4045.0,Income,3466.7799999999997
+2024-01-11,Salary,1849.5,Expense,-1849.5
+2024-01-12,Utilities,1386.72,Expense,-1386.72
+2024-01-13,Investment,1348.0,Income,1348.0
+2024-01-14,Health & Fitness,1013.18,Expense,-1013.18
+2024-01-15,Entertainment,554.46,Expense,-554.46
+2024-01-16,Travel,911.16,Expense,-911.16
+2024-01-16,Other,4696.0,Income,3466.7799999999997
+2024-01-16,Health & Fitness,1426.63,Expense,-1426.63
+2024-01-17,Entertainment,409.77,Expense,-409.77
+2024-01-19,Travel,1376.36,Expense,-1376.36
+2024-01-19,Utilities,1962.86,Expense,-1962.86
+2024-01-19,Utilities,1012.75,Expense,-1012.75
+2024-01-19,Health & Fitness,1423.6,Expense,-1423.6
+2024-01-20,Salary,1169.78,Expense,-1169.78
+2024-01-22,Shopping,1351.74,Expense,-1351.74
+2024-01-23,Travel,1756.18,Expense,-1756.18
+2024-01-24,Food & Drink,1050.23,Expense,-1050.23
+2024-01-25,Investment,934.0,Income,934.0
+2024-01-26,Entertainment,541.29,Expense,-541.29
+2024-01-26,Travel,1369.95,Expense,-1369.95
+2024-01-26,Investment,2917.0,Income,2917.0
+2024-01-27,Food & Drink,723.78,Expense,-723.78
+2024-01-28,Entertainment,1487.4,Expense,-1487.4
+2024-01-30,Entertainment,1026.74,Expense,-1026.74
+2024-02-01,Travel,1388.94,Expense,-1388.94
+2024-02-06,Other,3674.0,Income,3466.7799999999997
+2024-02-07,Health & Fitness,1932.01,Expense,-1932.01
+2024-02-07,Other,2163.0,Income,2163.0
+2024-02-10,Salary,1661.67,Expense,-1661.67
+2024-02-10,Health & Fitness,1512.66,Expense,-1512.66
+2024-02-10,Entertainment,1554.53,Expense,-1554.53
+2024-02-14,Travel,903.14,Expense,-903.14
+2024-02-14,Rent,382.08,Expense,-382.08
+2024-02-15,Investment,3590.0,Income,3466.7799999999997
+2024-02-16,Other,2664.0,Income,2664.0
+2024-02-17,Other,546.0,Income,546.0
+2024-02-19,Utilities,89.48,Expense,-89.48
+2024-02-21,Food & Drink,1549.59,Expense,-1549.59
+2024-02-21,Travel,986.2,Expense,-986.2
+2024-02-21,Health & Fitness,155.03,Expense,-155.03
+2024-02-22,Entertainment,1914.41,Expense,-1914.41
+2024-02-23,Utilities,837.7,Expense,-837.7
+2024-02-23,Rent,705.31,Expense,-705.31
+2024-02-24,Health & Fitness,668.82,Expense,-668.82
+2024-02-24,Salary,1993.3,Expense,-1993.3
+2024-02-25,Food & Drink,238.3,Expense,-238.3
+2024-02-27,Entertainment,1809.95,Expense,-1809.95
+2024-02-27,Entertainment,1918.2,Expense,-1918.2
+2024-02-27,Health & Fitness,768.93,Expense,-768.93
+2024-02-28,Rent,777.89,Expense,-777.89
+2024-02-29,Travel,59.16,Expense,-59.16
+2024-03-02,Health & Fitness,1033.48,Expense,-1033.48
+2024-03-03,Salary,97.26,Expense,-97.26
+2024-03-05,Entertainment,647.42,Expense,-647.42
+2024-03-05,Investment,1871.0,Income,1871.0
+2024-03-06,Food & Drink,1257.6,Expense,-1257.6
+2024-03-06,Entertainment,1731.25,Expense,-1731.25
+2024-03-06,Rent,419.1,Expense,-419.1
+2024-03-07,Shopping,1296.66,Expense,-1296.66
+2024-03-07,Utilities,57.27,Expense,-57.27
+2024-03-08,Food & Drink,184.17,Expense,-184.17
+2024-03-11,Other,1077.0,Income,1077.0
+2024-03-13,Entertainment,1822.86,Expense,-1822.86
+2024-03-15,Salary,1264.13,Expense,-1264.13
+2024-03-16,Food & Drink,785.11,Expense,-785.11
+2024-03-18,Investment,1018.0,Income,1018.0
+2024-03-26,Food & Drink,1404.76,Expense,-1404.76
+2024-03-27,Investment,2874.0,Income,2874.0
+2024-03-28,Travel,1217.07,Expense,-1217.07
+2024-03-29,Salary,769.01,Expense,-769.01
+2024-03-30,Food & Drink,953.24,Expense,-953.24
+2024-03-30,Utilities,1496.04,Expense,-1496.04
+2024-04-03,Travel,1920.67,Expense,-1920.67
+2024-04-04,Other,591.0,Income,591.0
+2024-04-06,Utilities,255.24,Expense,-255.24
+2024-04-07,Other,4900.0,Income,3466.7799999999997
+2024-04-08,Rent,616.34,Expense,-616.34
+2024-04-09,Health & Fitness,431.36,Expense,-431.36
+2024-04-09,Utilities,330.3,Expense,-330.3
+2024-04-10,Travel,396.71,Expense,-396.71
+2024-04-10,Investment,4996.0,Income,3466.7799999999997
+2024-04-11,Rent,588.4,Expense,-588.4
+2024-04-13,Investment,2117.0,Income,2117.0
+2024-04-16,Salary,1903.56,Expense,-1903.56
+2024-04-17,Entertainment,209.09,Expense,-209.09
+2024-04-17,Entertainment,642.39,Expense,-642.39
+2024-04-17,Travel,1389.98,Expense,-1389.98
+2024-04-18,Other,3091.0,Income,3091.0
+2024-04-20,Utilities,19.62,Expense,-19.62
+2024-04-21,Entertainment,1427.28,Expense,-1427.28
+2024-04-22,Travel,1681.82,Expense,-1681.82
+2024-04-23,Other,4431.0,Income,3466.7799999999997
+2024-04-25,Health & Fitness,1551.79,Expense,-1551.79
+2024-04-26,Rent,359.78,Expense,-359.78
+2024-04-26,Travel,1718.84,Expense,-1718.84
+2024-04-30,Investment,2656.0,Income,2656.0
+2024-05-02,Rent,1457.58,Expense,-1457.58
+2024-05-03,Food & Drink,1627.16,Expense,-1627.16
+2024-05-04,Entertainment,1813.54,Expense,-1813.54
+2024-05-04,Salary,1311.28,Expense,-1311.28
+2024-05-05,Other,2329.0,Income,2329.0
+2024-05-05,Travel,276.42,Expense,-276.42
+2024-05-14,Rent,799.6,Expense,-799.6
+2024-05-15,Entertainment,1697.48,Expense,-1697.48
+2024-05-17,Utilities,1516.84,Expense,-1516.84
+2024-05-20,Investment,1967.0,Income,1967.0
+2024-05-22,Utilities,1474.48,Expense,-1474.48
+2024-05-23,Health & Fitness,90.44,Expense,-90.44
+2024-05-25,Entertainment,135.09,Expense,-135.09
+2024-05-26,Food & Drink,1340.49,Expense,-1340.49
+2024-05-27,Health & Fitness,782.31,Expense,-782.31
+2024-05-27,Food & Drink,89.41,Expense,-89.41
+2024-05-31,Rent,1410.44,Expense,-1410.44
+2024-06-01,Travel,1671.4,Expense,-1671.4
+2024-06-02,Utilities,759.55,Expense,-759.55
+2024-06-02,Rent,1038.16,Expense,-1038.16
+2024-06-03,Entertainment,1037.58,Expense,-1037.58
+2024-06-04,Health & Fitness,978.85,Expense,-978.85
+2024-06-06,Food & Drink,1008.66,Expense,-1008.66
+2024-06-07,Investment,2384.0,Income,2384.0
+2024-06-09,Other,2232.0,Income,2232.0
+2024-06-10,Investment,3467.0,Income,3466.7799999999997
+2024-06-12,Rent,1325.61,Expense,-1325.61
+2024-06-13,Health & Fitness,1443.31,Expense,-1443.31
+2024-06-13,Salary,963.25,Expense,-963.25
+2024-06-14,Shopping,54.67,Expense,-54.67
+2024-06-15,Investment,1603.0,Income,1603.0
+2024-06-16,Food & Drink,1782.69,Expense,-1782.69
+2024-06-17,Investment,2615.0,Income,2615.0
+2024-06-21,Shopping,1202.72,Expense,-1202.72
+2024-06-21,Food & Drink,1758.23,Expense,-1758.23
+2024-06-22,Travel,1895.04,Expense,-1895.04
+2024-06-23,Salary,1735.93,Expense,-1735.93
+2024-06-23,Other,1669.0,Income,1669.0
+2024-06-23,Utilities,1250.19,Expense,-1250.19
+2024-06-23,Utilities,1451.13,Expense,-1451.13
+2024-06-23,Salary,1197.1,Expense,-1197.1
+2024-07-01,Other,3657.0,Income,3466.7799999999997
+2024-07-05,Investment,2157.0,Income,2157.0
+2024-07-06,Shopping,1654.76,Expense,-1654.76
+2024-07-07,Utilities,956.98,Expense,-956.98
+2024-07-07,Food & Drink,1756.73,Expense,-1756.73
+2024-07-07,Rent,195.45,Expense,-195.45
+2024-07-07,Food & Drink,1794.97,Expense,-1794.97
+2024-07-13,Shopping,1048.87,Expense,-1048.87
+2024-07-13,Food & Drink,1398.31,Expense,-1398.31
+2024-07-16,Salary,1581.22,Expense,-1581.22
+2024-07-20,Rent,856.72,Expense,-856.72
+2024-07-21,Entertainment,1821.07,Expense,-1821.07
+2024-07-22,Other,2611.0,Income,2611.0
+2024-07-23,Investment,4780.0,Income,3466.7799999999997
+2024-07-23,Investment,3572.0,Income,3466.7799999999997
+2024-07-25,Health & Fitness,823.6,Expense,-823.6
+2024-07-26,Other,2577.0,Income,2577.0
+2024-07-26,Shopping,1133.69,Expense,-1133.69
+2024-07-26,Shopping,1512.39,Expense,-1512.39
+2024-07-26,Salary,365.65,Expense,-365.65
+2024-07-27,Salary,515.02,Expense,-515.02
+2024-07-27,Health & Fitness,1550.65,Expense,-1550.65
+2024-07-27,Utilities,1711.45,Expense,-1711.45
+2024-07-28,Entertainment,898.72,Expense,-898.72
+2024-07-28,Utilities,209.55,Expense,-209.55
+2024-07-29,Health & Fitness,1603.7,Expense,-1603.7
+2024-07-29,Food & Drink,329.87,Expense,-329.87
+2024-07-29,Food & Drink,1610.7,Expense,-1610.7
+2024-07-30,Salary,1852.46,Expense,-1852.46
+2024-07-30,Rent,533.55,Expense,-533.55
+2024-08-01,Food & Drink,1451.74,Expense,-1451.74
+2024-08-02,Shopping,1231.79,Expense,-1231.79
+2024-08-02,Food & Drink,1891.97,Expense,-1891.97
+2024-08-03,Salary,883.55,Expense,-883.55
+2024-08-03,Travel,397.55,Expense,-397.55
+2024-08-08,Entertainment,1234.23,Expense,-1234.23
+2024-08-09,Health & Fitness,486.12,Expense,-486.12
+2024-08-11,Investment,1211.0,Income,1211.0
+2024-08-14,Shopping,712.72,Expense,-712.72
+2024-08-14,Entertainment,1040.31,Expense,-1040.31
+2024-08-14,Rent,1839.16,Expense,-1839.16
+2024-08-15,Health & Fitness,701.48,Expense,-701.48
+2024-08-22,Entertainment,1216.66,Expense,-1216.66
+2024-08-23,Other,538.0,Income,538.0
+2024-08-25,Shopping,1017.41,Expense,-1017.41
+2024-08-25,Travel,686.53,Expense,-686.53
+2024-08-25,Other,4906.0,Income,3466.7799999999997
+2024-08-27,Travel,1391.44,Expense,-1391.44
+2024-08-27,Salary,1542.23,Expense,-1542.23
+2024-08-28,Salary,1366.37,Expense,-1366.37
+2024-08-28,Food & Drink,969.12,Expense,-969.12
+2024-08-28,Shopping,1270.99,Expense,-1270.99
+2024-08-30,Entertainment,1602.32,Expense,-1602.32
+2024-09-01,Health & Fitness,1037.84,Expense,-1037.84
+2024-09-02,Other,2533.0,Income,2533.0
+2024-09-05,Shopping,1350.66,Expense,-1350.66
+2024-09-05,Rent,1113.56,Expense,-1113.56
+2024-09-05,Other,3396.0,Income,3396.0
+2024-09-05,Travel,373.74,Expense,-373.74
+2024-09-06,Entertainment,1003.01,Expense,-1003.01
+2024-09-07,Investment,2674.0,Income,2674.0
+2024-09-08,Entertainment,1671.53,Expense,-1671.53
+2024-09-10,Health & Fitness,320.43,Expense,-320.43
+2024-09-13,Investment,4535.0,Income,3466.7799999999997
+2024-09-15,Food & Drink,1697.54,Expense,-1697.54
+2024-09-16,Health & Fitness,989.76,Expense,-989.76
+2024-09-17,Travel,986.7,Expense,-986.7
+2024-09-17,Travel,801.78,Expense,-801.78
+2024-09-17,Utilities,117.75,Expense,-117.75
+2024-09-18,Salary,1879.91,Expense,-1879.91
+2024-09-21,Other,3725.0,Income,3466.7799999999997
+2024-09-22,Utilities,919.82,Expense,-919.82
+2024-09-23,Other,3085.0,Income,3085.0
+2024-09-24,Food & Drink,1351.47,Expense,-1351.47
+2024-09-25,Rent,657.62,Expense,-657.62
+2024-09-26,Travel,382.43,Expense,-382.43
+2024-09-26,Travel,947.98,Expense,-947.98
+2024-09-27,Health & Fitness,375.99,Expense,-375.99
+2024-09-27,Shopping,1404.42,Expense,-1404.42
+2024-10-01,Shopping,566.46,Expense,-566.46
+2024-10-01,Investment,2372.0,Income,2372.0
+2024-10-02,Travel,1610.13,Expense,-1610.13
+2024-10-02,Shopping,400.17,Expense,-400.17
+2024-10-03,Utilities,951.24,Expense,-951.24
+2024-10-04,Other,4592.0,Income,3466.7799999999997
+2024-10-04,Other,4486.0,Income,3466.7799999999997
+2024-10-07,Food & Drink,802.82,Expense,-802.82
+2024-10-08,Food & Drink,438.78,Expense,-438.78
+2024-10-09,Rent,905.21,Expense,-905.21
+2024-10-10,Health & Fitness,727.01,Expense,-727.01
+2024-10-10,Travel,694.84,Expense,-694.84
+2024-10-11,Health & Fitness,1736.06,Expense,-1736.06
+2024-10-12,Entertainment,1157.94,Expense,-1157.94
+2024-10-15,Utilities,1958.95,Expense,-1958.95
+2024-10-17,Health & Fitness,1349.65,Expense,-1349.65
+2024-10-17,Salary,1780.37,Expense,-1780.37
+2024-10-18,Travel,932.87,Expense,-932.87
+2024-10-19,Utilities,1284.76,Expense,-1284.76
+2024-10-19,Shopping,1266.23,Expense,-1266.23
+2024-10-21,Rent,167.43,Expense,-167.43
+2024-10-21,Health & Fitness,640.59,Expense,-640.59
+2024-10-21,Travel,1214.72,Expense,-1214.72
+2024-10-23,Salary,1564.14,Expense,-1564.14
+2024-10-24,Salary,833.84,Expense,-833.84
+2024-10-28,Investment,1524.0,Income,1524.0
+2024-11-01,Travel,1881.47,Expense,-1881.47
+2024-11-02,Rent,429.04,Expense,-429.04
+2024-11-03,Rent,136.95,Expense,-136.95
+2024-11-03,Food & Drink,62.47,Expense,-62.47
+2024-11-11,Rent,216.82,Expense,-216.82
+2024-11-11,Rent,1313.12,Expense,-1313.12
+2024-11-12,Travel,466.42,Expense,-466.42
+2024-11-13,Salary,1256.7,Expense,-1256.7
+2024-11-13,Investment,734.0,Income,734.0
+2024-11-13,Other,3164.0,Income,3164.0
+2024-11-13,Salary,1950.21,Expense,-1950.21
+2024-11-14,Travel,1101.61,Expense,-1101.61
+2024-11-14,Investment,4240.0,Income,3466.7799999999997
+2024-11-16,Shopping,1051.69,Expense,-1051.69
+2024-11-17,Travel,1818.76,Expense,-1818.76
+2024-11-17,Entertainment,1611.37,Expense,-1611.37
+2024-11-17,Health & Fitness,830.29,Expense,-830.29
+2024-11-17,Investment,500.0,Income,500.0
+2024-11-18,Utilities,694.33,Expense,-694.33
+2024-11-18,Food & Drink,1378.66,Expense,-1378.66
+2024-11-19,Salary,606.22,Expense,-606.22
+2024-11-20,Travel,1198.04,Expense,-1198.04
+2024-11-20,Health & Fitness,385.26,Expense,-385.26
+2024-11-22,Shopping,795.56,Expense,-795.56
+2024-11-23,Other,3599.0,Income,3466.7799999999997
+2024-11-24,Rent,850.26,Expense,-850.26
+2024-11-24,Travel,576.51,Expense,-576.51
+2024-11-24,Travel,831.68,Expense,-831.68
+2024-11-25,Utilities,281.88,Expense,-281.88
+2024-11-25,Other,4209.0,Income,3466.7799999999997
+2024-11-25,Salary,383.7,Expense,-383.7
+2024-11-26,Investment,4882.0,Income,3466.7799999999997
+2024-11-29,Investment,2811.0,Income,2811.0
+2024-11-30,Salary,1456.94,Expense,-1456.94
+2024-12-02,Utilities,39.3,Expense,-39.3
+2024-12-05,Shopping,630.04,Expense,-630.04
+2024-12-06,Health & Fitness,932.73,Expense,-932.73
+2024-12-09,Health & Fitness,169.64,Expense,-169.64
+2024-12-11,Utilities,121.52,Expense,-121.52
+2024-12-12,Rent,1090.95,Expense,-1090.95
+2024-12-12,Other,3625.0,Income,3466.7799999999997
+2024-12-15,Rent,1949.45,Expense,-1949.45
+2024-12-16,Shopping,1544.74,Expense,-1544.74
+2024-12-19,Food & Drink,406.37,Expense,-406.37
+2024-12-19,Rent,1047.07,Expense,-1047.07
+2024-12-21,Salary,784.35,Expense,-784.35
+2024-12-23,Health & Fitness,325.64,Expense,-325.64
+2024-12-28,Rent,514.09,Expense,-514.09
+2024-12-28,Entertainment,727.25,Expense,-727.25
+2024-12-28,Investment,1425.0,Income,1425.0
+2024-12-29,Shopping,655.78,Expense,-655.78
+2024-12-29,Other,1480.0,Income,1480.0
