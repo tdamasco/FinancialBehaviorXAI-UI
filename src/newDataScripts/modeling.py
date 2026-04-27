@@ -293,3 +293,69 @@ def train_and_compare_models(
     }
 
     return results_df, fitted_models, split_data
+
+def walk_forward_evaluate(
+    df: pd.DataFrame,
+    target_col: str = "overspend_target_t1",
+    n_splits: int = 4,
+    random_state: int = 42,
+    class_weight: dict = {0: 1, 1: 2},
+    threshold: float = 0.5
+):
+    data = df.copy()
+    data["period"] = pd.to_datetime(data["period"].astype(str), errors="coerce")
+    data = data.sort_values("period").reset_index(drop=True)
+
+    drop_cols = [
+        target_col,
+        "period",
+        "overspend_current_month",
+        "first",
+        "last",
+        "year",
+        "month",
+    ]
+    feature_cols = [c for c in data.columns if c not in drop_cols]
+
+    X = data[feature_cols]
+    y = data[target_col]
+
+    tscv = TimeSeriesSplit(n_splits=n_splits)
+    fold_scores = []
+
+    for fold, (train_idx, test_idx) in enumerate(tscv.split(X)):
+        X_train, X_test = X.iloc[train_idx], X.iloc[test_idx]
+        y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
+
+        preprocessor = build_preprocessor(X_train)
+        models = get_models(random_state=random_state, class_weight=class_weight)
+
+        for model_name, estimator in models.items():
+            pipe = Pipeline([
+                ("preprocessor", preprocessor),
+                ("model", clone(estimator))
+            ])
+            pipe.fit(X_train, y_train)
+            metrics = evaluate_classifier(pipe, X_test, y_test, threshold=threshold)
+
+            fold_scores.append({
+                "fold": fold + 1,
+                "model": model_name,
+                "f1_score": metrics["f1_score"],
+                "roc_auc": metrics["roc_auc"],
+                "precision": metrics["precision"],
+                "recall": metrics["recall"],
+                "avg_precision": metrics["avg_precision"],
+                "test_positive_rate": float(y_test.mean())
+            })
+
+    scores_df = pd.DataFrame(fold_scores)
+
+    summary = (
+        scores_df.groupby("model")[["f1_score", "roc_auc", "precision", "recall", "avg_precision"]]
+        .mean()
+        .round(4)
+        .sort_values("f1_score", ascending=False)
+    )
+
+    return scores_df, summary
