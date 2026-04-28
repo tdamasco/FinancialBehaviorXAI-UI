@@ -1,0 +1,24 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# data files too large for git (keep csvs in data/v2 and data/newDataTest)
+data/Personal_Finance_Dataset.csv
+data/preprocessed_data.csv
+data/cleaned_finance_data.csv
